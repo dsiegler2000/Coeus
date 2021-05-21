@@ -422,24 +422,24 @@ class AlphaBetaMinimaxSearcher:
             ordering = self.search_info.fail_high_first / self.search_info.fail_high \
                 if self.search_info.fail_high > 0 else 0.0
 
-            elapsed_time = time.time() - st
-            log_func(f"Depth {curr_depth} took time {elapsed_time}")
-            if curr_depth > 2:
-                err = abs(predicted_time_next_iteration - elapsed_time)
-                err_log[curr_depth] = err
-            if curr_depth > 1:
-                # Effective branching factor
-                time_ebf = elapsed_time / prev_elapsed_time
-                predicted_time_next_iteration = time_ebf * elapsed_time
-                log_func(f"Predicting that depth {curr_depth + 1} will take {round(predicted_time_next_iteration, 2)}s")
-                # # TODO finish up the timecontrol classes and delegate to that via callbacks
-                # # TODO this doesn't work when coming off of the transposition table, or maybe the error calculation doesn't work??
-                # if self.search_info.end_time is not None:
-                #     time_remaining = self.search_info.end_time - time.time()
-                #     if time_remaining < 0.75 * predicted_time_next_iteration:
-                #         break
-
-            prev_elapsed_time = elapsed_time
+            # elapsed_time = time.time() - st
+            # log_func(f"Depth {curr_depth} took time {elapsed_time}")
+            # if curr_depth > 2:
+            #     err = abs(predicted_time_next_iteration - elapsed_time)
+            #     err_log[curr_depth] = err
+            # if curr_depth > 1:
+            #     # Effective branching factor
+            #     time_ebf = elapsed_time / prev_elapsed_time
+            #     predicted_time_next_iteration = time_ebf * elapsed_time
+            #     log_func(f"Predicting that depth {curr_depth + 1} will take {round(predicted_time_next_iteration, 2)}s")
+            #     # # TODO finish up the timecontrol classes and delegate to that via callbacks
+            #     # # TODO this doesn't work when coming off of the transposition table, or maybe the error calculation doesn't work??
+            #     # if self.search_info.end_time is not None:
+            #     #     time_remaining = self.search_info.end_time - time.time()
+            #     #     if time_remaining < 0.75 * predicted_time_next_iteration:
+            #     #         break
+            #
+            # prev_elapsed_time = elapsed_time
 
             on_depth_completed(curr_depth, best_score, board.generate_pv_line(curr_depth))
 
