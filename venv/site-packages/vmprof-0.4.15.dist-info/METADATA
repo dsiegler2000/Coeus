@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: vmprof
+Version: 0.4.15
+Summary: Python's vmprof client
+Home-page: https://github.com/vmprof/vmprof-python
+Author: vmprof team
+Author-email: fijal@baroquesoftware.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Dist: requests
+Requires-Dist: six
+Requires-Dist: pytz
+Requires-Dist: colorama
+
+See https://vmprof.readthedocs.org/
+
+

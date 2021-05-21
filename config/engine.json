@@ -1,0 +1,12 @@
+{
+  "name": "Coeus",
+  "version": "v1.0.1",
+  "searcher_config": "config/searchers/alpha_beta_minimax_config.json",
+  "evaluator_config": "config/evaluators/vice_evaluator_config.json",
+  "base_ponder_depth": 4,
+  "ponder_pv_depth_offset": 1,
+  "changelog": {
+    "v1.0.0": "initial version",
+    "v1.0.1": "implemented VICE evaluation"
+  }
+}

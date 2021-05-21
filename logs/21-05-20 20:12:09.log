@@ -1,0 +1,497 @@
+2021-05-20 20:12:09,369:evaluation.py:DEBUG:Created a ViceEvaluatorV2: config_filepath=config/evaluators/vice_evaluator_config.json
+2021-05-20 20:12:09,369:evaluation.py:DEBUG:	name=ViceEvaluator
+2021-05-20 20:12:09,369:evaluation.py:DEBUG:	description=based on https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg
+2021-05-20 20:12:09,369:evaluation.py:DEBUG:	version=1.0.1
+2021-05-20 20:12:09,389:communication.py:DEBUG:Welcome to Coeus Chess Engine - Console Mode
+2021-05-20 20:12:09,390:communication.py:DEBUG:Loaded engine from config/engine.json
+2021-05-20 20:12:09,390:communication.py:DEBUG:Loaded searcher from config/searchers/alpha_beta_minimax_config.json
+2021-05-20 20:12:09,390:communication.py:DEBUG:Loaded evaluator from config/evaluators/vice_evaluator_config.json
+2021-05-20 20:12:09,390:communication.py:DEBUG:Loaded opening book from data/opening_books/bookfish.bin with 1197019 entries
+2021-05-20 20:12:09,390:communication.py:DEBUG:type `help` or `h` for help at any time
+2021-05-20 20:12:09,391:communication.py:DEBUG:Current board state:
+2021-05-20 20:12:09,391:communication.py:DEBUG:8    r  n  b  q  k  b  n  r
+7    p  p  p  p  p  p  p  p
+6    .  .  .  .  .  .  .  .
+5    .  .  .  .  .  .  .  .
+4    .  .  .  .  .  .  .  .
+3    .  .  .  .  .  .  .  .
+2    P  P  P  P  P  P  P  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:12:09,392:communication.py:DEBUG:FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+2021-05-20 20:12:13,437:communication.py:DEBUG:Console(received):time 30
+2021-05-20 20:12:13,437:communication.py:DEBUG:time set to 30s
+2021-05-20 20:12:14,595:communication.py:DEBUG:Console(received):ponder
+2021-05-20 20:12:14,595:communication.py:DEBUG:ponder enabled (post set to noponderpost)
+2021-05-20 20:12:16,397:communication.py:DEBUG:Console(received):d2d4
+2021-05-20 20:12:16,398:communication.py:DEBUG:Received move d2d4
+2021-05-20 20:12:16,398:communication.py:DEBUG:Engine thinking using specified parameters...
+2021-05-20 20:12:16,399:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:12:16,400:engine.py:DEBUG:
+8    r  n  b  q  k  b  n  r
+7    p  p  p  p  p  p  p  p
+6    .  .  .  .  .  .  .  .
+5    .  .  .  .  .  .  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  .  .
+2    P  P  P  .  P  P  P  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:12:16,401:engine.py:DEBUG:FEN: rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1
+2021-05-20 20:12:16,403:engine.py:DEBUG:mode=_TimeMode.FIXED_TIME
+2021-05-20 20:12:16,404:communication.py:DEBUG:UCI(sent):info string 0 transposition table entries
+2021-05-20 20:12:16,413:communication.py:DEBUG:[92mCoeus moved f7f5[0m
+2021-05-20 20:12:16,413:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:12:16,414:communication.py:DEBUG:Current board state:
+2021-05-20 20:12:16,414:communication.py:DEBUG:8    r  n  b  q  k  b  n  r
+7    p  p  p  p  p  .  p  p
+6    .  .  .  .  .  .  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  .  .
+2    P  P  P  .  P  P  P  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:12:16,415:engine.py:DEBUG:
+8    r  n  b  q  k  b  n  r
+7    p  p  p  p  p  .  p  p
+6    .  .  .  .  .  .  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  .  .
+2    P  P  P  .  P  P  P  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:12:16,416:communication.py:DEBUG:FEN: rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+2021-05-20 20:12:16,415:engine.py:DEBUG:FEN: rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
+2021-05-20 20:12:16,416:engine.py:DEBUG:mode=None
+2021-05-20 20:13:25,607:communication.py:DEBUG:Console(received):g2g3
+2021-05-20 20:13:25,609:communication.py:DEBUG:Received move g2g3
+2021-05-20 20:13:25,610:communication.py:DEBUG:Engine thinking using specified parameters...
+2021-05-20 20:13:25,610:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:13:25,611:engine.py:DEBUG:
+8    r  n  b  q  k  b  n  r
+7    p  p  p  p  p  .  p  p
+6    .  .  .  .  .  .  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  P  .
+2    P  P  P  .  P  P  .  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:25,611:engine.py:DEBUG:FEN: rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2
+2021-05-20 20:13:25,611:engine.py:DEBUG:mode=_TimeMode.FIXED_TIME
+2021-05-20 20:13:25,612:communication.py:DEBUG:info string 144939 transposition table entries
+2021-05-20 20:13:25,617:communication.py:DEBUG:[92mCoeus moved g8f6[0m
+2021-05-20 20:13:25,617:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:13:25,617:engine.py:DEBUG:
+8    r  n  b  q  k  b  .  r
+7    p  p  p  p  p  .  p  p
+6    .  .  .  .  .  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  P  .
+2    P  P  P  .  P  P  .  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:25,618:engine.py:DEBUG:FEN: rnbqkb1r/ppppp1pp/5n2/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR w KQkq - 1 3
+2021-05-20 20:13:25,618:engine.py:DEBUG:mode=None
+2021-05-20 20:13:25,618:communication.py:DEBUG:Current board state:
+2021-05-20 20:13:25,619:communication.py:DEBUG:8    r  n  b  q  k  b  .  r
+7    p  p  p  p  p  .  p  p
+6    .  .  .  .  .  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  P  .
+2    P  P  P  .  P  P  .  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:25,620:communication.py:DEBUG:FEN: rnbqkb1r/ppppp1pp/5n2/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR w KQkq - 1 3
+2021-05-20 20:13:41,545:communication.py:DEBUG:Console(received):f1g2
+2021-05-20 20:13:41,546:communication.py:DEBUG:Received move f1g2
+2021-05-20 20:13:41,547:communication.py:DEBUG:Engine thinking using specified parameters...
+2021-05-20 20:13:41,547:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:13:41,548:engine.py:DEBUG:
+8    r  n  b  q  k  b  .  r
+7    p  p  p  p  p  .  p  p
+6    .  .  .  .  .  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  P  .
+2    P  P  P  .  P  P  B  P
+1    R  N  B  Q  K  .  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:41,548:engine.py:DEBUG:FEN: rnbqkb1r/ppppp1pp/5n2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR b KQkq - 2 3
+2021-05-20 20:13:41,549:engine.py:DEBUG:mode=_TimeMode.FIXED_TIME
+2021-05-20 20:13:41,549:communication.py:DEBUG:info string 184405 transposition table entries
+2021-05-20 20:13:41,554:communication.py:DEBUG:[92mCoeus moved e7e6[0m
+2021-05-20 20:13:41,554:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:13:41,555:communication.py:DEBUG:Current board state:
+2021-05-20 20:13:41,555:communication.py:DEBUG:8    r  n  b  q  k  b  .  r
+7    p  p  p  p  .  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  P  .
+2    P  P  P  .  P  P  B  P
+1    R  N  B  Q  K  .  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:41,555:engine.py:DEBUG:
+8    r  n  b  q  k  b  .  r
+7    p  p  p  p  .  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  .  P  .
+2    P  P  P  .  P  P  B  P
+1    R  N  B  Q  K  .  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:41,556:engine.py:DEBUG:FEN: rnbqkb1r/pppp2pp/4pn2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4
+2021-05-20 20:13:41,556:engine.py:DEBUG:mode=None
+2021-05-20 20:13:41,556:communication.py:DEBUG:FEN: rnbqkb1r/pppp2pp/4pn2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4
+2021-05-20 20:13:55,539:communication.py:DEBUG:Console(received):g1f3
+2021-05-20 20:13:55,540:communication.py:DEBUG:Received move g1f3
+2021-05-20 20:13:55,540:communication.py:DEBUG:Engine thinking using specified parameters...
+2021-05-20 20:13:55,541:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:13:55,541:engine.py:DEBUG:
+8    r  n  b  q  k  b  .  r
+7    p  p  p  p  .  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  N  P  .
+2    P  P  P  .  P  P  B  P
+1    R  N  B  Q  K  .  .  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:55,542:engine.py:DEBUG:FEN: rnbqkb1r/pppp2pp/4pn2/5p2/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4
+2021-05-20 20:13:55,543:engine.py:DEBUG:mode=_TimeMode.FIXED_TIME
+2021-05-20 20:13:55,543:communication.py:DEBUG:info string 214188 transposition table entries
+2021-05-20 20:13:55,548:communication.py:DEBUG:[92mCoeus moved f8e7[0m
+2021-05-20 20:13:55,549:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:13:55,549:engine.py:DEBUG:
+8    r  n  b  q  k  .  .  r
+7    p  p  p  p  b  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  N  P  .
+2    P  P  P  .  P  P  B  P
+1    R  N  B  Q  K  .  .  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:55,549:communication.py:DEBUG:Current board state:
+2021-05-20 20:13:55,550:communication.py:DEBUG:8    r  n  b  q  k  .  .  r
+7    p  p  p  p  b  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  .  .  .  N  P  .
+2    P  P  P  .  P  P  B  P
+1    R  N  B  Q  K  .  .  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:13:55,550:engine.py:DEBUG:FEN: rnbqk2r/ppppb1pp/4pn2/5p2/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5
+2021-05-20 20:13:55,550:engine.py:DEBUG:mode=None
+2021-05-20 20:13:55,551:communication.py:DEBUG:FEN: rnbqk2r/ppppb1pp/4pn2/5p2/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5
+2021-05-20 20:14:39,642:communication.py:DEBUG:Console(received):b1c3
+2021-05-20 20:14:39,646:communication.py:DEBUG:Received move b1c3
+2021-05-20 20:14:39,646:communication.py:DEBUG:Engine thinking using specified parameters...
+2021-05-20 20:14:39,647:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:14:39,647:engine.py:DEBUG:
+8    r  n  b  q  k  .  .  r
+7    p  p  p  p  b  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  .  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  N  .  .  N  P  .
+2    P  P  P  .  P  P  B  P
+1    R  .  B  Q  K  .  .  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:14:39,647:engine.py:DEBUG:FEN: rnbqk2r/ppppb1pp/4pn2/5p2/3P4/2N2NP1/PPP1PPBP/R1BQK2R b KQkq - 3 5
+2021-05-20 20:14:39,647:engine.py:DEBUG:mode=_TimeMode.FIXED_TIME
+2021-05-20 20:14:39,648:communication.py:DEBUG:info string 311239 transposition table entries
+2021-05-20 20:14:39,660:communication.py:DEBUG:info score cp 0 depth 1 nodes 1 time 12 pv e8g8
+2021-05-20 20:14:39,661:communication.py:DEBUG:info score cp 0 depth 2 nodes 2 time 12 pv e8g8 c1e3
+2021-05-20 20:14:39,661:communication.py:DEBUG:info score cp 0 depth 3 nodes 3 time 13 pv e8g8 c1e3 d7d5
+2021-05-20 20:14:39,662:communication.py:DEBUG:info score cp 0 depth 4 nodes 4 time 14 pv e8g8 c1e3 d7d5 e1g1
+2021-05-20 20:14:39,900:communication.py:DEBUG:info depth 5 nodes 9136 time 251
+2021-05-20 20:14:40,155:communication.py:DEBUG:info depth 5 nodes 18142 time 507
+2021-05-20 20:14:40,155:communication.py:DEBUG:info nps 35218.85114806983
+2021-05-20 20:14:40,411:communication.py:DEBUG:info depth 5 nodes 27901 time 762
+2021-05-20 20:14:40,411:communication.py:DEBUG:info nps 38248.478376118685
+2021-05-20 20:14:40,662:communication.py:DEBUG:info depth 5 nodes 37121 time 1014
+2021-05-20 20:14:40,665:communication.py:DEBUG:info nps 36494.087132406356
+2021-05-20 20:14:40,917:communication.py:DEBUG:info depth 5 nodes 45999 time 1269
+2021-05-20 20:14:40,920:communication.py:DEBUG:info nps 34810.21380955867
+2021-05-20 20:14:40,961:communication.py:DEBUG:info score cp 15 depth 5 nodes 47857 time 1312 pv f6e4 c3e4 f5e4 f3e5 d7d5
+2021-05-20 20:14:41,174:communication.py:DEBUG:info depth 6 nodes 54889 time 1525
+2021-05-20 20:14:41,174:communication.py:DEBUG:info nps 34876.39002441171
+2021-05-20 20:14:41,429:communication.py:DEBUG:info depth 6 nodes 63288 time 1781
+2021-05-20 20:14:41,429:communication.py:DEBUG:info nps 32876.89934681025
+2021-05-20 20:14:41,681:communication.py:DEBUG:info depth 6 nodes 73220 time 2032
+2021-05-20 20:14:41,682:communication.py:DEBUG:info nps 39523.07396147269
+2021-05-20 20:14:41,936:communication.py:DEBUG:info depth 6 nodes 84837 time 2288
+2021-05-20 20:14:41,938:communication.py:DEBUG:info nps 45500.23889154324
+2021-05-20 20:14:42,194:communication.py:DEBUG:info depth 6 nodes 97523 time 2545
+2021-05-20 20:14:42,194:communication.py:DEBUG:info nps 49348.979991955064
+2021-05-20 20:14:42,445:communication.py:DEBUG:info depth 6 nodes 105092 time 2796
+2021-05-20 20:14:42,445:communication.py:DEBUG:info nps 30126.34168829505
+2021-05-20 20:14:42,701:communication.py:DEBUG:info depth 6 nodes 112776 time 3053
+2021-05-20 20:14:42,701:communication.py:DEBUG:info nps 30004.154017298595
+2021-05-20 20:14:42,953:communication.py:DEBUG:info depth 6 nodes 119055 time 3305
+2021-05-20 20:14:42,955:communication.py:DEBUG:info nps 24842.357687120668
+2021-05-20 20:14:43,120:communication.py:DEBUG:info score cp 5 depth 6 nodes 123284 time 3471 pv d7d5 c1f4 e8g8 e1g1 b8c6 e2e3
+2021-05-20 20:14:43,213:communication.py:DEBUG:info depth 7 nodes 126325 time 3565
+2021-05-20 20:14:43,214:communication.py:DEBUG:info nps 28032.644039281047
+2021-05-20 20:14:43,466:communication.py:DEBUG:info depth 7 nodes 135909 time 3818
+2021-05-20 20:14:43,467:communication.py:DEBUG:info nps 37944.56781949664
+2021-05-20 20:14:43,724:communication.py:DEBUG:info depth 7 nodes 146872 time 4076
+2021-05-20 20:14:43,725:communication.py:DEBUG:info nps 42524.21329915279
+2021-05-20 20:14:43,979:communication.py:DEBUG:info depth 7 nodes 154616 time 4331
+2021-05-20 20:14:43,980:communication.py:DEBUG:info nps 30364.83790588035
+2021-05-20 20:14:44,434:communication.py:DEBUG:info depth 7 nodes 159364 time 4786
+2021-05-20 20:14:44,435:communication.py:DEBUG:info nps 10438.721993041047
+2021-05-20 20:14:44,689:communication.py:DEBUG:info depth 7 nodes 165223 time 5041
+2021-05-20 20:14:44,689:communication.py:DEBUG:info nps 23022.416942645443
+2021-05-20 20:14:44,944:communication.py:DEBUG:info depth 7 nodes 173083 time 5295
+2021-05-20 20:14:44,945:communication.py:DEBUG:info nps 30843.9769704041
+2021-05-20 20:14:45,201:communication.py:DEBUG:info depth 7 nodes 182304 time 5552
+2021-05-20 20:14:45,201:communication.py:DEBUG:info nps 35979.95887274353
+2021-05-20 20:14:45,457:communication.py:DEBUG:info depth 7 nodes 191753 time 5808
+2021-05-20 20:14:45,457:communication.py:DEBUG:info nps 36915.94735582676
+2021-05-20 20:14:45,713:communication.py:DEBUG:info depth 7 nodes 199790 time 6064
+2021-05-20 20:14:45,714:communication.py:DEBUG:info nps 31363.234999661712
+2021-05-20 20:14:45,968:communication.py:DEBUG:info depth 7 nodes 207205 time 6320
+2021-05-20 20:14:45,968:communication.py:DEBUG:info nps 29087.007928532385
+2021-05-20 20:14:46,223:communication.py:DEBUG:info depth 7 nodes 215303 time 6575
+2021-05-20 20:14:46,225:communication.py:DEBUG:info nps 31862.68469808414
+2021-05-20 20:14:46,479:communication.py:DEBUG:info depth 7 nodes 222197 time 6830
+2021-05-20 20:14:46,481:communication.py:DEBUG:info nps 26826.446669752255
+2021-05-20 20:14:46,735:communication.py:DEBUG:info depth 7 nodes 229658 time 7087
+2021-05-20 20:14:46,737:communication.py:DEBUG:info nps 29139.802662793514
+2021-05-20 20:14:46,992:communication.py:DEBUG:info depth 7 nodes 239031 time 7343
+2021-05-20 20:14:46,993:communication.py:DEBUG:info nps 36693.890255007835
+2021-05-20 20:14:47,246:communication.py:DEBUG:info depth 7 nodes 249121 time 7597
+2021-05-20 20:14:47,247:communication.py:DEBUG:info nps 39702.642848161726
+2021-05-20 20:14:47,501:communication.py:DEBUG:info depth 7 nodes 256400 time 7853
+2021-05-20 20:14:47,501:communication.py:DEBUG:info nps 28501.196622676824
+2021-05-20 20:14:47,756:communication.py:DEBUG:info depth 7 nodes 265099 time 8108
+2021-05-20 20:14:47,758:communication.py:DEBUG:info nps 34182.633007616685
+2021-05-20 20:14:48,011:communication.py:DEBUG:info depth 7 nodes 273022 time 8363
+2021-05-20 20:14:48,011:communication.py:DEBUG:info nps 31061.94083298408
+2021-05-20 20:14:48,267:communication.py:DEBUG:info depth 7 nodes 281752 time 8618
+2021-05-20 20:14:48,267:communication.py:DEBUG:info nps 34188.51339528726
+2021-05-20 20:14:48,522:communication.py:DEBUG:info depth 7 nodes 290978 time 8874
+2021-05-20 20:14:48,523:communication.py:DEBUG:info nps 36101.69497116745
+2021-05-20 20:14:48,779:communication.py:DEBUG:info depth 7 nodes 303136 time 9131
+2021-05-20 20:14:48,780:communication.py:DEBUG:info nps 47358.32605120715
+2021-05-20 20:14:49,035:communication.py:DEBUG:info depth 7 nodes 313899 time 9386
+2021-05-20 20:14:49,035:communication.py:DEBUG:info nps 42086.56335318257
+2021-05-20 20:14:49,290:communication.py:DEBUG:info depth 7 nodes 323481 time 9641
+2021-05-20 20:14:49,290:communication.py:DEBUG:info nps 37505.0828322862
+2021-05-20 20:14:49,542:communication.py:DEBUG:info depth 7 nodes 330272 time 9893
+2021-05-20 20:14:49,543:communication.py:DEBUG:info nps 27052.347654766025
+2021-05-20 20:14:49,798:communication.py:DEBUG:info depth 7 nodes 340656 time 10150
+2021-05-20 20:14:49,804:communication.py:DEBUG:info nps 39960.05492161838
+2021-05-20 20:14:50,057:communication.py:DEBUG:info depth 7 nodes 352811 time 10409
+2021-05-20 20:14:50,059:communication.py:DEBUG:info nps 47523.503690680154
+2021-05-20 20:14:50,092:communication.py:DEBUG:info score cp 20 depth 7 nodes 354241 time 10443 pv d7d5 c1f4 f6e4 c3e4 f5e4 f3e5 e8g8
+2021-05-20 20:14:50,492:communication.py:DEBUG:info depth 8 nodes 359256 time 10843
+2021-05-20 20:14:50,519:communication.py:DEBUG:info nps 14155.21745599324
+2021-05-20 20:14:50,774:communication.py:DEBUG:info depth 8 nodes 367615 time 11125
+2021-05-20 20:14:50,774:communication.py:DEBUG:info nps 32451.91589234355
+2021-05-20 20:14:51,027:communication.py:DEBUG:info depth 8 nodes 378954 time 11378
+2021-05-20 20:14:51,028:communication.py:DEBUG:info nps 44843.90073958264
+2021-05-20 20:14:51,283:communication.py:DEBUG:info depth 8 nodes 386179 time 11635
+2021-05-20 20:14:51,285:communication.py:DEBUG:info nps 28074.016337833033
+2021-05-20 20:14:51,536:communication.py:DEBUG:info depth 8 nodes 392847 time 11888
+2021-05-20 20:14:51,537:communication.py:DEBUG:info nps 26373.041940946994
+2021-05-20 20:14:51,791:communication.py:DEBUG:info depth 8 nodes 403193 time 12143
+2021-05-20 20:14:51,791:communication.py:DEBUG:info nps 40642.868888832694
+2021-05-20 20:14:52,047:communication.py:DEBUG:info depth 8 nodes 412615 time 12398
+2021-05-20 20:14:52,048:communication.py:DEBUG:info nps 36798.3833321743
+2021-05-20 20:14:52,304:communication.py:DEBUG:info depth 8 nodes 423096 time 12656
+2021-05-20 20:14:52,306:communication.py:DEBUG:info nps 40787.21427869342
+2021-05-20 20:14:52,560:communication.py:DEBUG:info depth 8 nodes 433069 time 12912
+2021-05-20 20:14:52,561:communication.py:DEBUG:info nps 38959.33645106416
+2021-05-20 20:14:52,816:communication.py:DEBUG:info depth 8 nodes 442132 time 13168
+2021-05-20 20:14:52,818:communication.py:DEBUG:info nps 35459.432159322096
+2021-05-20 20:14:53,072:communication.py:DEBUG:info depth 8 nodes 451877 time 13424
+2021-05-20 20:14:53,072:communication.py:DEBUG:info nps 38133.037783375315
+2021-05-20 20:14:53,326:communication.py:DEBUG:info depth 8 nodes 461537 time 13677
+2021-05-20 20:14:53,326:communication.py:DEBUG:info nps 38070.60784422936
+2021-05-20 20:14:53,579:communication.py:DEBUG:info depth 8 nodes 470080 time 13931
+2021-05-20 20:14:53,582:communication.py:DEBUG:info nps 33712.976637352884
+2021-05-20 20:14:53,836:communication.py:DEBUG:info depth 8 nodes 479181 time 14188
+2021-05-20 20:14:53,836:communication.py:DEBUG:info nps 35449.65796074073
+2021-05-20 20:14:54,090:communication.py:DEBUG:info depth 8 nodes 490766 time 14442
+2021-05-20 20:14:54,092:communication.py:DEBUG:info nps 45613.18832294189
+2021-05-20 20:14:54,348:communication.py:DEBUG:info depth 8 nodes 501721 time 14699
+2021-05-20 20:14:54,350:communication.py:DEBUG:info nps 42617.22190418926
+2021-05-20 20:14:54,604:communication.py:DEBUG:info depth 8 nodes 512645 time 14956
+2021-05-20 20:14:54,605:communication.py:DEBUG:info nps 42517.8340925993
+2021-05-20 20:14:54,860:communication.py:DEBUG:info depth 8 nodes 522686 time 15211
+2021-05-20 20:14:54,860:communication.py:DEBUG:info nps 39358.4617329666
+2021-05-20 20:14:55,116:communication.py:DEBUG:info depth 8 nodes 532127 time 15468
+2021-05-20 20:14:55,117:communication.py:DEBUG:info nps 36802.7064672178
+2021-05-20 20:14:55,371:communication.py:DEBUG:info depth 8 nodes 541923 time 15723
+2021-05-20 20:14:55,371:communication.py:DEBUG:info nps 38526.28981590789
+2021-05-20 20:14:55,627:communication.py:DEBUG:info depth 8 nodes 556229 time 15979
+2021-05-20 20:14:55,628:communication.py:DEBUG:info nps 56019.61744156231
+2021-05-20 20:14:55,882:communication.py:DEBUG:info depth 8 nodes 568238 time 16234
+2021-05-20 20:14:55,885:communication.py:DEBUG:info nps 47165.565001313946
+2021-05-20 20:14:56,135:communication.py:DEBUG:info depth 8 nodes 577573 time 16487
+2021-05-20 20:14:56,135:communication.py:DEBUG:info nps 36867.86005326916
+2021-05-20 20:14:56,389:communication.py:DEBUG:info depth 8 nodes 586740 time 16741
+2021-05-20 20:14:56,390:communication.py:DEBUG:info nps 36028.83939511497
+2021-05-20 20:14:56,827:communication.py:DEBUG:info depth 8 nodes 591960 time 17178
+2021-05-20 20:14:56,827:communication.py:DEBUG:info nps 11942.564068997004
+2021-05-20 20:14:57,094:communication.py:DEBUG:info depth 8 nodes 599859 time 17446
+2021-05-20 20:14:57,095:communication.py:DEBUG:info nps 31005.49903831042
+2021-05-20 20:14:57,351:communication.py:DEBUG:info depth 8 nodes 608172 time 17702
+2021-05-20 20:14:57,351:communication.py:DEBUG:info nps 32423.89407730085
+2021-05-20 20:14:57,606:communication.py:DEBUG:info depth 8 nodes 617335 time 17957
+2021-05-20 20:14:57,606:communication.py:DEBUG:info nps 35937.71891787768
+2021-05-20 20:14:57,861:communication.py:DEBUG:info depth 8 nodes 625118 time 18213
+2021-05-20 20:14:57,861:communication.py:DEBUG:info nps 30478.525002380822
+2021-05-20 20:14:58,118:communication.py:DEBUG:info depth 8 nodes 637767 time 18469
+2021-05-20 20:14:58,118:communication.py:DEBUG:info nps 49358.29569715408
+2021-05-20 20:14:58,374:communication.py:DEBUG:info depth 8 nodes 648484 time 18725
+2021-05-20 20:14:58,375:communication.py:DEBUG:info nps 41895.10207322911
+2021-05-20 20:14:58,629:communication.py:DEBUG:info depth 8 nodes 660440 time 18980
+2021-05-20 20:14:58,630:communication.py:DEBUG:info nps 46896.127339521576
+2021-05-20 20:14:58,882:communication.py:DEBUG:info depth 8 nodes 672313 time 19233
+2021-05-20 20:14:58,882:communication.py:DEBUG:info nps 46935.57443101548
+2021-05-20 20:14:59,136:communication.py:DEBUG:info depth 8 nodes 683754 time 19488
+2021-05-20 20:14:59,137:communication.py:DEBUG:info nps 44991.03411148228
+2021-05-20 20:14:59,392:communication.py:DEBUG:info depth 8 nodes 696203 time 19744
+2021-05-20 20:14:59,392:communication.py:DEBUG:info nps 48676.22620346081
+2021-05-20 20:14:59,645:communication.py:DEBUG:info depth 8 nodes 705993 time 19997
+2021-05-20 20:14:59,646:communication.py:DEBUG:info nps 38693.82577795703
+2021-05-20 20:14:59,901:communication.py:DEBUG:info depth 8 nodes 714866 time 20252
+2021-05-20 20:14:59,901:communication.py:DEBUG:info nps 34759.825820075974
+2021-05-20 20:15:00,155:communication.py:DEBUG:info depth 8 nodes 722368 time 20506
+2021-05-20 20:15:00,155:communication.py:DEBUG:info nps 29558.245469601166
+2021-05-20 20:15:00,411:communication.py:DEBUG:info depth 8 nodes 732662 time 20762
+2021-05-20 20:15:00,411:communication.py:DEBUG:info nps 40198.72758317109
+2021-05-20 20:15:00,663:communication.py:DEBUG:info depth 8 nodes 743823 time 21014
+2021-05-20 20:15:00,664:communication.py:DEBUG:info nps 44275.781293662796
+2021-05-20 20:15:00,918:communication.py:DEBUG:info depth 8 nodes 754044 time 21269
+2021-05-20 20:15:00,919:communication.py:DEBUG:info nps 40035.137529372834
+2021-05-20 20:15:01,172:communication.py:DEBUG:info depth 8 nodes 762847 time 21524
+2021-05-20 20:15:01,175:communication.py:DEBUG:info nps 34477.07314664862
+2021-05-20 20:15:01,430:communication.py:DEBUG:info depth 8 nodes 771924 time 21781
+2021-05-20 20:15:01,432:communication.py:DEBUG:info nps 35308.929803860454
+2021-05-20 20:15:01,686:communication.py:DEBUG:info depth 8 nodes 780078 time 22037
+2021-05-20 20:15:01,687:communication.py:DEBUG:info nps 31934.813027545908
+2021-05-20 20:15:01,944:communication.py:DEBUG:info depth 8 nodes 787285 time 22295
+2021-05-20 20:15:01,945:communication.py:DEBUG:info nps 28000.484601955144
+2021-05-20 20:15:02,199:communication.py:DEBUG:info depth 8 nodes 796231 time 22551
+2021-05-20 20:15:02,200:communication.py:DEBUG:info nps 35165.59879503212
+2021-05-20 20:15:02,453:communication.py:DEBUG:info depth 8 nodes 804373 time 22805
+2021-05-20 20:15:02,453:communication.py:DEBUG:info nps 31951.4167395918
+2021-05-20 20:15:02,707:communication.py:DEBUG:info depth 8 nodes 810703 time 23059
+2021-05-20 20:15:02,707:communication.py:DEBUG:info nps 24948.17189185532
+2021-05-20 20:15:02,963:communication.py:DEBUG:info depth 8 nodes 818521 time 23314
+2021-05-20 20:15:02,963:communication.py:DEBUG:info nps 30780.030035457738
+2021-05-20 20:15:03,216:communication.py:DEBUG:info depth 8 nodes 826143 time 23567
+2021-05-20 20:15:03,216:communication.py:DEBUG:info nps 30150.915060751733
+2021-05-20 20:15:03,743:communication.py:DEBUG:info depth 8 nodes 832104 time 24095
+2021-05-20 20:15:03,743:communication.py:DEBUG:info nps 11303.025025361709
+2021-05-20 20:15:03,996:communication.py:DEBUG:info depth 8 nodes 835387 time 24347
+2021-05-20 20:15:03,996:communication.py:DEBUG:info nps 13013.83524572889
+2021-05-20 20:15:04,251:communication.py:DEBUG:info depth 8 nodes 843759 time 24602
+2021-05-20 20:15:04,251:communication.py:DEBUG:info nps 32855.072613906
+2021-05-20 20:15:04,504:communication.py:DEBUG:info depth 8 nodes 854570 time 24855
+2021-05-20 20:15:04,504:communication.py:DEBUG:info nps 42742.21786695272
+2021-05-20 20:15:04,758:communication.py:DEBUG:info depth 8 nodes 864115 time 25110
+2021-05-20 20:15:04,761:communication.py:DEBUG:info nps 37387.828288628836
+2021-05-20 20:15:05,014:communication.py:DEBUG:info depth 8 nodes 873372 time 25366
+2021-05-20 20:15:05,015:communication.py:DEBUG:info nps 36311.947662377584
+2021-05-20 20:15:05,266:communication.py:DEBUG:info depth 8 nodes 878695 time 25618
+2021-05-20 20:15:05,269:communication.py:DEBUG:info nps 21081.907812983794
+2021-05-20 20:15:05,522:communication.py:DEBUG:info depth 8 nodes 885706 time 25874
+2021-05-20 20:15:05,523:communication.py:DEBUG:info nps 27540.2714419755
+2021-05-20 20:15:05,775:communication.py:DEBUG:info depth 8 nodes 890960 time 26126
+2021-05-20 20:15:05,776:communication.py:DEBUG:info nps 20857.03131843467
+2021-05-20 20:15:06,033:communication.py:DEBUG:info depth 8 nodes 900656 time 26385
+2021-05-20 20:15:06,035:communication.py:DEBUG:info nps 37625.2781773337
+2021-05-20 20:15:06,290:communication.py:DEBUG:info depth 8 nodes 908691 time 26641
+2021-05-20 20:15:06,290:communication.py:DEBUG:info nps 31339.923293042106
+2021-05-20 20:15:06,544:communication.py:DEBUG:info depth 8 nodes 915719 time 26896
+2021-05-20 20:15:06,547:communication.py:DEBUG:info nps 27399.49663028568
+2021-05-20 20:15:06,800:communication.py:DEBUG:info depth 8 nodes 924603 time 27152
+2021-05-20 20:15:06,801:communication.py:DEBUG:info nps 34898.84934669892
+2021-05-20 20:15:07,054:communication.py:DEBUG:info depth 8 nodes 932476 time 27406
+2021-05-20 20:15:07,056:communication.py:DEBUG:info nps 30926.551752966912
+2021-05-20 20:15:07,311:communication.py:DEBUG:info depth 8 nodes 941820 time 27663
+2021-05-20 20:15:07,311:communication.py:DEBUG:info nps 36522.58373298744
+2021-05-20 20:15:07,565:communication.py:DEBUG:info depth 8 nodes 947966 time 27917
+2021-05-20 20:15:07,565:communication.py:DEBUG:info nps 24194.765927851742
+2021-05-20 20:15:07,819:communication.py:DEBUG:info depth 8 nodes 954793 time 28171
+2021-05-20 20:15:07,820:communication.py:DEBUG:info nps 26858.26866791604
+2021-05-20 20:15:08,075:communication.py:DEBUG:info depth 8 nodes 961966 time 28426
+2021-05-20 20:15:08,075:communication.py:DEBUG:info nps 28130.82473888103
+2021-05-20 20:15:08,331:communication.py:DEBUG:info depth 8 nodes 970937 time 28683
+2021-05-20 20:15:08,333:communication.py:DEBUG:info nps 35049.104457711735
+2021-05-20 20:15:08,586:communication.py:DEBUG:info depth 8 nodes 977145 time 28938
+2021-05-20 20:15:08,588:communication.py:DEBUG:info nps 24241.40534489316
+2021-05-20 20:15:08,841:communication.py:DEBUG:info depth 8 nodes 985019 time 29193
+2021-05-20 20:15:08,841:communication.py:DEBUG:info nps 30963.786024096386
+2021-05-20 20:15:09,097:communication.py:DEBUG:info depth 8 nodes 991505 time 29448
+2021-05-20 20:15:09,099:communication.py:DEBUG:info nps 25398.41049213622
+2021-05-20 20:15:09,354:communication.py:DEBUG:info depth 8 nodes 998313 time 29706
+2021-05-20 20:15:09,354:communication.py:DEBUG:info nps 26516.657983904926
+2021-05-20 20:15:09,605:communication.py:DEBUG:info depth 8 nodes 1004908 time 29956
+2021-05-20 20:15:09,607:communication.py:DEBUG:info nps 26235.617654697715
+2021-05-20 20:15:09,863:communication.py:DEBUG:info depth 8 nodes 1010632 time 30214
+2021-05-20 20:15:09,863:communication.py:DEBUG:info nps 22258.18452373743
+2021-05-20 20:15:09,894:communication.py:DEBUG:[92mCoeus moved d7d5[0m
+2021-05-20 20:15:09,895:engine.py:DEBUG:Searching from board:
+
+2021-05-20 20:15:09,895:engine.py:DEBUG:
+8    r  n  b  q  k  .  .  r
+7    p  p  p  .  b  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  p  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  N  .  .  N  P  .
+2    P  P  P  .  P  P  B  P
+1    R  .  B  Q  K  .  .  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:15:09,895:communication.py:DEBUG:Current board state:
+2021-05-20 20:15:09,896:engine.py:DEBUG:FEN: rnbqk2r/ppp1b1pp/4pn2/3p1p2/3P4/2N2NP1/PPP1PPBP/R1BQK2R w KQkq - 0 6
+2021-05-20 20:15:09,896:communication.py:DEBUG:8    r  n  b  q  k  .  .  r
+7    p  p  p  .  b  .  p  p
+6    .  .  .  .  p  n  .  .
+5    .  .  .  p  .  p  .  .
+4    .  .  .  P  .  .  .  .
+3    .  .  N  .  .  N  P  .
+2    P  P  P  .  P  P  B  P
+1    R  .  B  Q  K  .  .  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:15:09,896:engine.py:DEBUG:mode=None
+2021-05-20 20:15:09,897:communication.py:DEBUG:FEN: rnbqk2r/ppp1b1pp/4pn2/3p1p2/3P4/2N2NP1/PPP1PPBP/R1BQK2R w KQkq - 0 6

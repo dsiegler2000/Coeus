@@ -1,0 +1,12 @@
+{
+  "name": "AlphaBetaMinimaxSearcher",
+  "version": "1.0.0",
+  "move_orderer": "v1",
+  "reduction_factor": 2,
+  "inf": 1000000000000,
+  "max_depth": 64,
+  "opening_book_filepath": "data/opening_books/bookfish.bin",
+  "endgame_tablebase_filepath": "data/endgame_tablebases/gaviota",
+  "opening_book_min_weight": 6,
+  "endgame_tablebase_num_men": 5
+}

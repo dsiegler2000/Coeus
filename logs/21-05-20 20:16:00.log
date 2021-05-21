@@ -1,0 +1,42 @@
+2021-05-20 20:16:00,588:evaluation.py:DEBUG:Created a ViceEvaluatorV2: config_filepath=config/evaluators/vice_evaluator_config.json
+2021-05-20 20:16:00,589:evaluation.py:DEBUG:	name=ViceEvaluator
+2021-05-20 20:16:00,589:evaluation.py:DEBUG:	description=based on https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg
+2021-05-20 20:16:00,589:evaluation.py:DEBUG:	version=1.0.1
+2021-05-20 20:16:00,609:communication.py:DEBUG:Welcome to Coeus Chess Engine - Console Mode
+2021-05-20 20:16:00,609:communication.py:DEBUG:Loaded engine from config/engine.json
+2021-05-20 20:16:00,609:communication.py:DEBUG:Loaded searcher from config/searchers/alpha_beta_minimax_config.json
+2021-05-20 20:16:00,609:communication.py:DEBUG:Loaded evaluator from config/evaluators/vice_evaluator_config.json
+2021-05-20 20:16:00,609:communication.py:DEBUG:Loaded opening book from data/opening_books/bookfish.bin with 1197019 entries
+2021-05-20 20:16:00,609:communication.py:DEBUG:type `help` or `h` for help at any time
+2021-05-20 20:16:00,610:communication.py:DEBUG:Current board state:
+2021-05-20 20:16:00,610:communication.py:DEBUG:8    r  n  b  q  k  b  n  r
+7    p  p  p  p  p  p  p  p
+6    .  .  .  .  .  .  .  .
+5    .  .  .  .  .  .  .  .
+4    .  .  .  .  .  .  .  .
+3    .  .  .  .  .  .  .  .
+2    P  P  P  P  P  P  P  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:16:00,610:communication.py:DEBUG:FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+2021-05-20 20:16:02,473:communication.py:DEBUG:Console(received):ponder
+2021-05-20 20:16:02,473:communication.py:DEBUG:ponder enabled (post set to noponderpost)
+2021-05-20 20:16:03,923:communication.py:DEBUG:Console(received):time 30
+2021-05-20 20:16:03,923:communication.py:DEBUG:time set to 30s
+2021-05-20 20:16:06,410:communication.py:DEBUG:Console(received):setboard rnbqk2r/ppp1b1pp/4pn2/3p1p2/3P4/2N2NP1/PPP1PPBP/R1BQK2R w KQkq - 0 6
+2021-05-20 20:16:06,411:communication.py:DEBUG:ponder must be disabled to set board!
+2021-05-20 20:16:06,411:communication.py:DEBUG:Current board state:
+2021-05-20 20:16:06,412:communication.py:DEBUG:8    r  n  b  q  k  b  n  r
+7    p  p  p  p  p  p  p  p
+6    .  .  .  .  .  .  .  .
+5    .  .  .  .  .  .  .  .
+4    .  .  .  .  .  .  .  .
+3    .  .  .  .  .  .  .  .
+2    P  P  P  P  P  P  P  P
+1    R  N  B  Q  K  B  N  R
+
+     a  b  c  d  e  f  g  h  
+2021-05-20 20:16:06,415:communication.py:DEBUG:FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+2021-05-20 20:16:10,120:communication.py:DEBUG:Console(received):noponder
+2021-05-20 20:16:10,120:communication.py:DEBUG:ponder disabled (and post enabled)

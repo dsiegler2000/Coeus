@@ -1,0 +1,2118 @@
+Current board state:
+8    r  .  b  .  k  .  .  r
+7    p  p  p  p  n  p  p  p
+6    .  .  n  .  .  q  .  .
+5    .  .  b  .  .  .  .  .
+4    .  .  .  N  P  .  .  .
+3    .  .  P  .  B  .  .  .
+2    P  P  .  .  .  P  P  P
+1    R  N  .  Q  K  B  .  R
+
+     a  b  c  d  e  f  g  h  
+info score cp -5 depth 1 nodes 224 time 228 pv f1c4
+info depth 2 nodes 251 time 254
+info depth 2 nodes 530 time 506
+info nps 1104.7186741232758
+info depth 2 nodes 914 time 766
+info nps 1469.860164431062
+info depth 2 nodes 1388 time 1024
+info nps 1838.1918724203738
+info depth 2 nodes 2036 time 1277
+info nps 2567.892700440279
+info score cp -35 depth 2 nodes 2660 time 1504 pv f1c4 e8g8
+info depth 3 nodes 2701 time 1527
+info nps 2650.765337203213
+info depth 3 nodes 3238 time 1780
+info nps 2132.559638239371
+info depth 3 nodes 4077 time 2036
+info nps 3267.4682604875684
+info depth 3 nodes 4870 time 2296
+info nps 3061.3591317575024
+info depth 3 nodes 5671 time 2554
+info nps 3099.881304162988
+info depth 3 nodes 6327 time 2812
+info nps 2582.9874037647996
+info depth 3 nodes 7433 time 3070
+info nps 4311.196115414239
+info depth 3 nodes 8978 time 3325
+info nps 6048.269146738755
+info score cp 0 depth 3 nodes 9798 time 3431 pv d4c6 f6c6 b1d2
+info depth 4 nodes 10487 time 3583
+info nps 5854.780187820527
+info depth 4 nodes 12109 time 3837
+info nps 6378.918364342662
+info depth 4 nodes 13001 time 4094
+info nps 3392.424716670402
+info depth 4 nodes 14043 time 4359
+info nps 4037.2011226220407
+info depth 4 nodes 15790 time 4614
+info nps 6928.571197724417
+info depth 4 nodes 17343 time 4878
+info nps 5791.057542016234
+info depth 4 nodes 18414 time 5144
+info nps 4030.62126807036
+info depth 4 nodes 19774 time 5396
+info nps 5341.981470327235
+info depth 4 nodes 21088 time 5659
+info nps 5066.37901137755
+info depth 4 nodes 22946 time 5919
+info nps 7171.043231370468
+info depth 4 nodes 24572 time 6190
+info nps 6010.7148592408685
+info depth 4 nodes 26202 time 6452
+info nps 6212.533882304307
+info depth 4 nodes 27710 time 6710
+info nps 5853.65103597884
+info depth 4 nodes 29722 time 6965
+info nps 7885.68031696195
+info depth 4 nodes 31833 time 7224
+info nps 8156.373520224254
+info depth 4 nodes 33790 time 7486
+info nps 7479.042008899552
+info depth 4 nodes 36155 time 7749
+info nps 9023.309320900647
+info depth 4 nodes 38496 time 8012
+info nps 8916.540189198624
+info depth 4 nodes 40447 time 8267
+info nps 7643.665953962885
+info depth 4 nodes 42675 time 8532
+info nps 8404.216909142744
+info depth 4 nodes 44981 time 8786
+info nps 9088.768311860904
+info score cp -20 depth 4 nodes 45167 time 8806 pv d4b5 c5b6 b1d2 d7d5
+info depth 5 nodes 47399 time 9047
+info nps 9373.153620351355
+info depth 5 nodes 50161 time 9309
+info nps 10465.731424926138
+info depth 5 nodes 52477 time 9563
+info nps 9142.252303139594
+info depth 5 nodes 55560 time 9824
+info nps 11587.82098940826
+info depth 5 nodes 58235 time 10092
+info nps 10179.952032063371
+info depth 5 nodes 60443 time 10357
+info nps 8368.338276704599
+info depth 5 nodes 62615 time 10623
+info nps 8118.943900188903
+info depth 5 nodes 65215 time 10881
+info nps 10088.82301895241
+info depth 5 nodes 68057 time 11137
+info nps 11051.531577472373
+info depth 5 nodes 70845 time 11396
+info nps 10774.909218583123
+info depth 5 nodes 73451 time 11664
+info nps 9678.582904966866
+info depth 5 nodes 75993 time 11928
+info nps 9670.793023566017
+info depth 5 nodes 79452 time 12190
+info nps 13328.554782463218
+info depth 5 nodes 82058 time 12442
+info nps 10326.396284507982
+info depth 5 nodes 85129 time 12702
+info nps 11813.04461197014
+info depth 5 nodes 87868 time 12954
+info nps 10898.461127470326
+info depth 5 nodes 90988 time 13211
+info nps 12117.094417231765
+info depth 5 nodes 93696 time 13471
+info nps 10404.655085873783
+info depth 5 nodes 95976 time 13727
+info nps 8923.46815717525
+info depth 5 nodes 98857 time 13985
+info nps 11187.917342777122
+info depth 5 nodes 101911 time 14239
+info nps 12000.622464973136
+info depth 5 nodes 104642 time 14494
+info nps 10735.354033075851
+info depth 5 nodes 107631 time 14751
+info nps 11635.3735028464
+info depth 5 nodes 110197 time 15008
+info nps 9984.047971294405
+info depth 5 nodes 113300 time 15261
+info nps 12281.811690388991
+info depth 5 nodes 115626 time 15519
+info nps 9059.908025180948
+info depth 5 nodes 118868 time 15779
+info nps 12517.741141723061
+info depth 5 nodes 121771 time 16037
+info nps 11251.20426981679
+info depth 5 nodes 124180 time 16295
+info nps 9383.476991049407
+info depth 5 nodes 126281 time 16557
+info nps 7963.043598458845
+info depth 5 nodes 129324 time 16811
+info nps 11899.845442314007
+info depth 5 nodes 131718 time 17074
+info nps 9200.63855080668
+info depth 5 nodes 134088 time 17334
+info nps 9040.150140368372
+info depth 5 nodes 136879 time 17599
+info nps 10586.41169403137
+info depth 5 nodes 139493 time 17851
+info nps 10360.19123231907
+info depth 5 nodes 142280 time 18105
+info nps 10996.459861354335
+info depth 5 nodes 145465 time 18368
+info nps 12030.104076779236
+info depth 5 nodes 148903 time 18632
+info nps 13161.978449879534
+info depth 5 nodes 152104 time 18893
+info nps 12256.837848277715
+info depth 5 nodes 154962 time 19147
+info nps 11247.631588231541
+info depth 5 nodes 158009 time 19402
+info nps 11951.461419263856
+info depth 5 nodes 161214 time 19658
+info nps 12518.858197088884
+info depth 5 nodes 164056 time 19918
+info nps 10932.183349519502
+info depth 5 nodes 166790 time 20177
+info nps 10489.617608823495
+info depth 5 nodes 169529 time 20436
+info nps 10659.028250962845
+info depth 5 nodes 171508 time 20690
+info nps 7873.468169517935
+info depth 5 nodes 174876 time 20952
+info nps 12861.899854315026
+info depth 5 nodes 177694 time 21209
+info nps 10989.306561294221
+info depth 5 nodes 180627 time 21466
+info nps 11411.118870714301
+info depth 5 nodes 183674 time 21722
+info nps 11896.68010049774
+info depth 5 nodes 186729 time 21979
+info nps 11895.216625232313
+info depth 5 nodes 189767 time 22231
+info nps 12054.889583291944
+info depth 5 nodes 193009 time 22489
+info nps 12638.217535253521
+info depth 5 nodes 196277 time 22744
+info nps 12822.526089897163
+info depth 5 nodes 199048 time 23000
+info nps 10838.318250190005
+info depth 5 nodes 202215 time 23256
+info nps 12353.385550381714
+info depth 5 nodes 206060 time 23514
+info nps 14939.179189922455
+info depth 5 nodes 209531 time 23778
+info nps 12855.960848287112
+info depth 5 nodes 212567 time 24041
+info nps 11684.00818405904
+info depth 5 nodes 215867 time 24293
+info nps 13107.2
+info depth 5 nodes 218964 time 24546
+info nps 12244.451942699805
+info depth 5 nodes 222080 time 24798
+info nps 12398.929552718535
+info depth 5 nodes 225642 time 25053
+info nps 13905.8847392786
+info depth 5 nodes 228877 time 25313
+info nps 12468.875463476417
+info depth 5 nodes 232274 time 25567
+info nps 13378.752843256561
+info depth 5 nodes 235300 time 25820
+info nps 11905.638003561311
+info depth 5 nodes 238426 time 26081
+info nps 12060.707284342421
+info depth 5 nodes 241806 time 26335
+info nps 13307.563978729297
+info depth 5 nodes 244912 time 26592
+info nps 12075.455186208917
+info score cp 5 depth 5 nodes 245037 time 26602 pv d1a4 d7d6 f1b5 c5d4 c3d4
+info depth 6 nodes 247551 time 26852
+info nps 10188.323871957085
+info depth 6 nodes 250139 time 27110
+info nps 10037.114924843178
+info depth 6 nodes 253313 time 27367
+info nps 12344.573064287151
+info depth 6 nodes 255405 time 27624
+info nps 8153.527612116436
+info depth 6 nodes 257217 time 27880
+info nps 7063.663309373475
+info depth 6 nodes 260102 time 28146
+info nps 10933.717917891705
+info depth 6 nodes 263139 time 28405
+info nps 11745.002556809013
+info depth 6 nodes 265978 time 28660
+info nps 11129.0517262811
+info depth 6 nodes 268949 time 28921
+info nps 11416.559262452256
+info depth 6 nodes 271939 time 29179
+info nps 11474.91599063242
+info depth 6 nodes 275538 time 29443
+info nps 13801.49892638981
+info depth 6 nodes 278700 time 29705
+info nps 11982.572916383067
+info depth 6 nodes 281393 time 29971
+info nps 10147.956068448759
+info depth 6 nodes 283738 time 30230
+info nps 9080.4240146976
+info depth 6 nodes 286877 time 30482
+info nps 12327.192617626048
+info depth 6 nodes 290498 time 30748
+info nps 13736.334868488384
+info depth 6 nodes 294104 time 31006
+info nps 14010.223495119737
+info depth 6 nodes 297816 time 31268
+info nps 14155.399340240328
+info depth 6 nodes 301418 time 31528
+info nps 13881.121620259
+info depth 6 nodes 305119 time 31798
+info nps 13743.892579890393
+info depth 6 nodes 307171 time 32053
+info nps 8055.649025137424
+info depth 6 nodes 309534 time 32307
+info nps 9310.55377048133
+info depth 6 nodes 312694 time 32566
+info nps 12212.607198932617
+info depth 6 nodes 315686 time 32819
+info nps 11820.482948433682
+info depth 6 nodes 318245 time 33076
+info nps 9968.176367937189
+info depth 6 nodes 321130 time 33328
+info nps 11412.054941282542
+info depth 6 nodes 324066 time 33586
+info nps 11400.878542847462
+info depth 6 nodes 327092 time 33850
+info nps 11495.001842434962
+info depth 6 nodes 330128 time 34107
+info nps 11854.938713561902
+info depth 6 nodes 333750 time 34369
+info nps 13827.342067149682
+info depth 6 nodes 337367 time 34631
+info nps 13853.312020877507
+info depth 6 nodes 340302 time 34894
+info nps 11145.247254040625
+info depth 6 nodes 343006 time 35151
+info nps 10555.164893419005
+info depth 6 nodes 346416 time 35409
+info nps 13208.759283715517
+info depth 6 nodes 348843 time 35661
+info nps 9616.110213905966
+info depth 6 nodes 351862 time 35922
+info nps 11584.895685102016
+info depth 6 nodes 355219 time 36182
+info nps 12951.241131150799
+info depth 6 nodes 358100 time 36437
+info nps 11294.179829574929
+info depth 6 nodes 360775 time 36699
+info nps 10212.383094417386
+info depth 6 nodes 363308 time 36955
+info nps 9908.269813187746
+info depth 6 nodes 366539 time 37212
+info nps 12566.55331128837
+info depth 6 nodes 370100 time 37467
+info nps 13973.619680370863
+info depth 6 nodes 373744 time 37735
+info nps 13582.356583381334
+info depth 6 nodes 377055 time 37991
+info nps 12928.594743598935
+info depth 6 nodes 380143 time 38251
+info nps 11965.50600854998
+info depth 6 nodes 383924 time 38506
+info nps 14853.845347760074
+info depth 6 nodes 387134 time 38761
+info nps 12660.9674037933
+info depth 6 nodes 391210 time 39032
+info nps 14978.548442010215
+info depth 6 nodes 394734 time 39297
+info nps 13306.63311697309
+info depth 6 nodes 398628 time 39557
+info nps 15056.556791214578
+info depth 6 nodes 402110 time 39813
+info nps 13535.984006388673
+info depth 6 nodes 405807 time 40075
+info nps 14187.122753094263
+info depth 6 nodes 409632 time 40329
+info nps 15073.16845141435
+info depth 6 nodes 412963 time 40594
+info nps 12564.035020613645
+info depth 6 nodes 415701 time 40848
+info nps 10753.11199604814
+info depth 6 nodes 418292 time 41116
+info nps 9693.393229727422
+info depth 6 nodes 421200 time 41375
+info nps 11235.49118874925
+info depth 6 nodes 424604 time 41640
+info nps 12853.458813846117
+info depth 6 nodes 427490 time 41901
+info nps 11061.257001673992
+info depth 6 nodes 430345 time 42171
+info nps 10575.910651618899
+info depth 6 nodes 432980 time 42430
+info nps 10165.30222299483
+info depth 6 nodes 435439 time 42684
+info nps 9692.859277804562
+info depth 6 nodes 438562 time 42939
+info nps 12231.237044682919
+info depth 6 nodes 441202 time 43198
+info nps 10190.054803605342
+info depth 6 nodes 443803 time 43459
+info nps 9979.641558162442
+info depth 6 nodes 446450 time 43721
+info nps 10091.146571727702
+info depth 6 nodes 449172 time 43984
+info nps 10394.911666869479
+info depth 6 nodes 451999 time 44236
+info nps 11201.452371640451
+info depth 6 nodes 454567 time 44488
+info nps 10263.063191320161
+info depth 6 nodes 457257 time 44749
+info nps 10247.61451971749
+info depth 6 nodes 458979 time 45007
+info nps 6689.796060364398
+info depth 6 nodes 461786 time 45271
+info nps 10618.615639926693
+info depth 6 nodes 463736 time 45526
+info nps 7677.592472044323
+info depth 6 nodes 466205 time 45789
+info nps 9392.606711680863
+info depth 6 nodes 468549 time 46049
+info nps 9011.115839712198
+info depth 6 nodes 471096 time 46311
+info nps 9717.34557825969
+info depth 6 nodes 473509 time 46572
+info nps 9273.184384530243
+info depth 6 nodes 476023 time 46831
+info nps 9710.16358080967
+info depth 6 nodes 478397 time 47084
+info nps 9400.939497478708
+info depth 6 nodes 481058 time 47339
+info nps 10426.69144633584
+info depth 6 nodes 483586 time 47604
+info nps 9535.166587189213
+info depth 6 nodes 485947 time 47863
+info nps 9129.863176770494
+info depth 6 nodes 488419 time 48116
+info nps 9786.114196129658
+info depth 6 nodes 491138 time 48373
+info nps 10589.650744245215
+info depth 6 nodes 494559 time 48629
+info nps 13367.250360761787
+info depth 6 nodes 498166 time 48885
+info nps 14062.221002722496
+info depth 6 nodes 501285 time 49142
+info nps 12135.996816187719
+info depth 6 nodes 503677 time 49398
+info nps 9344.914687669987
+info depth 6 nodes 506011 time 49656
+info nps 9057.81522233942
+info depth 6 nodes 508575 time 49914
+info nps 9966.613707598177
+info depth 6 nodes 511165 time 50173
+info nps 9980.923100579532
+info depth 6 nodes 513581 time 50433
+info nps 9310.279419412098
+info depth 6 nodes 516095 time 50694
+info nps 9618.23064225328
+info depth 6 nodes 518704 time 50949
+info nps 10259.08879509646
+info depth 6 nodes 521405 time 51211
+info nps 10386.203277590086
+info depth 6 nodes 524081 time 51470
+info nps 10276.746954700307
+info depth 6 nodes 526746 time 51732
+info nps 10229.70408384316
+info depth 6 nodes 529655 time 51990
+info nps 11147.909666594209
+info depth 6 nodes 532440 time 52255
+info nps 10595.599759481056
+info depth 6 nodes 535248 time 52515
+info nps 10746.68540263738
+info depth 6 nodes 537777 time 52783
+info nps 9476.981946072685
+info depth 6 nodes 540726 time 53040
+info nps 11514.88890725995
+info depth 6 nodes 543595 time 53298
+info nps 11093.649120815502
+info depth 6 nodes 546379 time 53556
+info nps 10768.499227074377
+info depth 6 nodes 549007 time 53825
+info nps 9762.547091243328
+info depth 6 nodes 551765 time 54085
+info nps 10657.399917943494
+info depth 6 nodes 554678 time 54341
+info nps 11358.135303199519
+info depth 6 nodes 557776 time 54606
+info nps 11805.181996204876
+info depth 6 nodes 560783 time 54864
+info nps 11639.79087959186
+info depth 6 nodes 563841 time 55127
+info nps 11650.855027664258
+info depth 6 nodes 566362 time 55383
+info nps 9844.152429328458
+info depth 6 nodes 569321 time 55639
+info nps 11582.301366999396
+info depth 6 nodes 572371 time 55896
+info nps 11873.246132242097
+info depth 6 nodes 575604 time 56151
+info nps 12683.999513599569
+info depth 6 nodes 579154 time 56405
+info nps 13968.789003426109
+info depth 6 nodes 582551 time 56663
+info nps 13161.976994335419
+info depth 6 nodes 585968 time 56916
+info nps 13500.329943792336
+info depth 6 nodes 589157 time 57178
+info nps 12267.299299628336
+info depth 6 nodes 592434 time 57439
+info nps 12559.976723614858
+info depth 6 nodes 595606 time 57694
+info nps 12455.24573125464
+info depth 6 nodes 598741 time 57953
+info nps 12091.455096857488
+info depth 6 nodes 601591 time 58212
+info nps 11009.04704585412
+info depth 6 nodes 604811 time 58474
+info nps 12306.658101176661
+info depth 6 nodes 608285 time 58728
+info nps 13691.999424919588
+info depth 6 nodes 611688 time 58984
+info nps 13278.806527569875
+info depth 6 nodes 614552 time 59240
+info nps 11190.030597140752
+info depth 6 nodes 617401 time 59499
+info nps 11030.115945646296
+info depth 6 nodes 620268 time 59757
+info nps 11112.563176159556
+info depth 6 nodes 622829 time 60014
+info nps 9956.843972610739
+info depth 6 nodes 625667 time 60270
+info nps 11098.24591278177
+info depth 6 nodes 629057 time 60528
+info nps 13168.575662379231
+info depth 6 nodes 632153 time 60782
+info nps 12151.225581871928
+info depth 6 nodes 635179 time 61039
+info nps 11779.084829698377
+info depth 6 nodes 638372 time 61297
+info nps 12414.612928523622
+info depth 6 nodes 641522 time 61553
+info nps 12320.416721451811
+info depth 6 nodes 644770 time 61808
+info nps 12712.518422763158
+info depth 6 nodes 648075 time 62074
+info nps 12412.118543206558
+info depth 6 nodes 651314 time 62343
+info nps 12026.165895176404
+info depth 6 nodes 654618 time 62607
+info nps 12570.27169893227
+info depth 6 nodes 657878 time 62867
+info nps 12566.740994333979
+info depth 6 nodes 660767 time 63122
+info nps 11328.66523936583
+info depth 6 nodes 663157 time 63378
+info nps 9329.911070479027
+info depth 6 nodes 665614 time 63645
+info nps 9229.054163795763
+info depth 6 nodes 668443 time 63901
+info nps 11034.747462573305
+info depth 6 nodes 671427 time 64153
+info nps 11844.044466020703
+info depth 6 nodes 674343 time 64414
+info nps 11185.21981965504
+info depth 6 nodes 677447 time 64668
+info nps 12239.937438596393
+info depth 6 nodes 680838 time 64925
+info nps 13208.356893938153
+info depth 6 nodes 684062 time 65182
+info nps 12524.518517186043
+info depth 6 nodes 687314 time 65439
+info nps 12606.876491505907
+info depth 6 nodes 690586 time 65699
+info nps 12615.699472836528
+info depth 6 nodes 693128 time 65961
+info nps 9724.755856706608
+info depth 6 nodes 696404 time 66224
+info nps 12547.109975643729
+info depth 6 nodes 699591 time 66483
+info nps 12312.338037302
+info depth 6 nodes 702668 time 66738
+info nps 12037.230584433279
+info depth 6 nodes 705858 time 67002
+info nps 12083.214210213771
+info depth 6 nodes 709143 time 67265
+info nps 12542.253347771868
+info depth 6 nodes 712247 time 67517
+info nps 12257.255225065894
+info depth 6 nodes 715531 time 67778
+info nps 12673.689708060774
+info depth 6 nodes 718683 time 68035
+info nps 12252.030923431243
+info depth 6 nodes 721896 time 68297
+info nps 12288.483675019688
+info depth 6 nodes 724789 time 68553
+info nps 11298.180402220134
+info depth 6 nodes 728019 time 68808
+info nps 12681.731348704503
+info depth 6 nodes 730640 time 69066
+info nps 10222.210351356429
+info depth 6 nodes 733923 time 69330
+info nps 12385.390624858686
+info depth 6 nodes 737100 time 69596
+info nps 12017.731721392523
+info depth 6 nodes 740258 time 69851
+info nps 12359.059609063079
+info depth 6 nodes 743353 time 70103
+info nps 12278.523630351423
+info depth 6 nodes 746807 time 70359
+info nps 13527.990081535612
+info depth 6 nodes 750424 time 70630
+info nps 13381.0541167693
+info depth 6 nodes 753614 time 70881
+info nps 12663.796643298954
+info depth 6 nodes 756962 time 71140
+info nps 12946.002483898312
+info depth 6 nodes 760208 time 71397
+info nps 12673.547778847245
+info depth 6 nodes 763584 time 71652
+info nps 12855.927586536996
+info depth 6 nodes 766380 time 71924
+info nps 10568.557106757895
+info depth 6 nodes 769757 time 72187
+info nps 12896.961228008435
+info depth 6 nodes 773061 time 72442
+info nps 12953.199435434874
+info depth 6 nodes 776119 time 72700
+info nps 11869.774547810193
+info depth 6 nodes 779259 time 72951
+info nps 12459.905390363834
+info depth 6 nodes 782653 time 73216
+info nps 12853.456783230185
+info depth 6 nodes 785787 time 73470
+info nps 12324.413906906011
+info depth 6 nodes 789160 time 73731
+info nps 12955.512695505951
+info depth 6 nodes 792520 time 73989
+info nps 13013.000186744126
+info depth 6 nodes 795681 time 74256
+info nps 11858.370183972787
+info depth 6 nodes 798540 time 74515
+info nps 11135.863370617675
+info depth 6 nodes 801687 time 74777
+info nps 11911.21414069379
+info depth 6 nodes 805005 time 75040
+info nps 12669.782742124573
+info depth 6 nodes 808060 time 75297
+info nps 11881.517439876563
+info depth 6 nodes 811164 time 75551
+info nps 12238.441660893279
+info depth 6 nodes 814623 time 75804
+info nps 13658.16366903935
+info depth 6 nodes 817899 time 76060
+info nps 12788.535727382214
+info depth 6 nodes 821390 time 76319
+info nps 13555.553346207776
+info depth 6 nodes 824789 time 76576
+info nps 13186.98882461613
+info depth 6 nodes 827600 time 76829
+info nps 11097.77609771158
+info depth 6 nodes 830527 time 77086
+info nps 11415.497048660833
+info depth 6 nodes 832960 time 77341
+info nps 9561.080154892483
+info depth 6 nodes 835784 time 77602
+info nps 10817.318077000704
+info depth 6 nodes 838741 time 77862
+info nps 11386.693102830937
+info depth 6 nodes 842330 time 78118
+info nps 14010.942903946388
+info depth 6 nodes 845268 time 78376
+info nps 11395.415107251052
+info depth 6 nodes 848467 time 78629
+info nps 12662.72795702578
+info depth 6 nodes 851812 time 78883
+info nps 13168.193932658935
+info depth 6 nodes 855075 time 79139
+info nps 12743.207728227117
+info depth 6 nodes 858375 time 79390
+info nps 13118.144209326152
+info depth 6 nodes 861845 time 79649
+info nps 13347.521924641835
+info depth 6 nodes 865347 time 79920
+info nps 13006.97888071394
+info depth 6 nodes 868940 time 80181
+info nps 13760.11617196431
+info depth 6 nodes 872292 time 80441
+info nps 12927.266298261262
+info depth 6 nodes 875515 time 80701
+info nps 12402.443555120068
+info depth 6 nodes 879113 time 80956
+info nps 14126.320482038234
+info depth 6 nodes 882132 time 81214
+info nps 11679.957289294374
+info depth 6 nodes 885122 time 81475
+info nps 11415.395166697113
+info depth 6 nodes 887884 time 81735
+info nps 10657.301263917676
+info depth 6 nodes 890851 time 81988
+info nps 11722.598883553037
+info depth 6 nodes 893259 time 82243
+info nps 9492.332387621562
+info depth 6 nodes 896888 time 82515
+info nps 13449.118954402937
+info depth 6 nodes 900238 time 82776
+info nps 12822.778336487865
+info depth 6 nodes 903396 time 83028
+info nps 12551.667965207569
+info depth 6 nodes 906676 time 83282
+info nps 12823.509109898612
+info depth 6 nodes 910019 time 83550
+info nps 12519.418794927604
+info depth 6 nodes 913097 time 83815
+info nps 11589.30180731274
+info depth 6 nodes 916123 time 84080
+info nps 11457.088325768573
+info depth 6 nodes 919065 time 84337
+info nps 11436.91201055713
+info depth 6 nodes 922399 time 84598
+info nps 12837.699683393588
+info depth 6 nodes 925482 time 84852
+info nps 12143.006671073983
+info depth 6 nodes 928403 time 85110
+info nps 11319.46097039299
+info depth 6 nodes 931118 time 85367
+info nps 10613.72322559886
+info depth 6 nodes 933469 time 85633
+info nps 8782.834896791568
+info depth 6 nodes 935730 time 85893
+info nps 8677.430974533157
+info depth 6 nodes 938677 time 86153
+info nps 11335.135513251638
+info depth 6 nodes 941397 time 86407
+info nps 10723.520557357664
+info depth 6 nodes 944434 time 86663
+info nps 11860.450881406625
+info depth 6 nodes 947488 time 86928
+info nps 11503.798815434417
+info depth 6 nodes 950722 time 87191
+info nps 12345.723205431279
+info depth 6 nodes 953629 time 87454
+info nps 11065.440414032902
+info depth 6 nodes 956544 time 87710
+info nps 11353.768240566536
+info depth 6 nodes 959593 time 87964
+info nps 12018.458343749355
+info depth 6 nodes 962623 time 88220
+info nps 11839.330019299374
+info depth 6 nodes 965372 time 88483
+info nps 10436.670789159909
+info depth 6 nodes 968538 time 88740
+info nps 12340.923103230682
+info depth 6 nodes 971575 time 89002
+info nps 11619.810669196526
+info depth 6 nodes 974764 time 89257
+info nps 12486.007426837807
+info depth 6 nodes 977893 time 89519
+info nps 11938.778825642037
+info depth 6 nodes 981416 time 89777
+info nps 13680.644929891076
+info depth 6 nodes 984587 time 90028
+info nps 12619.269834546461
+info depth 6 nodes 988076 time 90287
+info nps 13471.444115504783
+info depth 6 nodes 991345 time 90546
+info nps 12603.037329905967
+info depth 6 nodes 994790 time 90808
+info nps 13241.861344006427
+info depth 6 nodes 998232 time 91064
+info nps 13415.291468369123
+info depth 6 nodes 1001841 time 91325
+info nps 13887.353824471733
+info depth 6 nodes 1005012 time 91587
+info nps 11979.931928664391
+info depth 6 nodes 1008155 time 91852
+info nps 11986.674630605237
+info depth 6 nodes 1011061 time 92108
+info nps 11364.971140586027
+info depth 6 nodes 1013918 time 92362
+info nps 11222.625322987737
+info depth 6 nodes 1016833 time 92614
+info nps 11590.319429698166
+info depth 6 nodes 1020628 time 92870
+info nps 14843.348657817633
+info depth 6 nodes 1024072 time 93126
+info nps 13452.295918823476
+info depth 6 nodes 1027331 time 93381
+info nps 12778.692962376004
+info depth 6 nodes 1030529 time 93643
+info nps 12211.105671753161
+info depth 6 nodes 1033528 time 93905
+info nps 11450.06193588692
+info depth 6 nodes 1037063 time 94166
+info nps 13446.107065730113
+info depth 6 nodes 1040268 time 94430
+info nps 12234.419127551837
+info depth 6 nodes 1043114 time 94691
+info nps 10901.628792673426
+info depth 6 nodes 1046443 time 94952
+info nps 12759.72367105612
+info depth 6 nodes 1049823 time 95209
+info nps 13168.855960227991
+info depth 6 nodes 1053012 time 95468
+info nps 12293.748690031185
+info depth 6 nodes 1056267 time 95729
+info nps 12507.200211072512
+info depth 6 nodes 1059351 time 95990
+info nps 11808.490946834907
+info depth 6 nodes 1062551 time 96244
+info nps 12579.311172176964
+info depth 6 nodes 1065754 time 96499
+info nps 12567.041353021239
+info depth 6 nodes 1069157 time 96758
+info nps 13155.60813417724
+info depth 6 nodes 1072629 time 97016
+info nps 13475.999726086724
+info depth 6 nodes 1076081 time 97272
+info nps 13509.284158236624
+info depth 6 nodes 1078947 time 97534
+info nps 10951.297270486215
+info depth 6 nodes 1082355 time 97789
+info nps 13280.879069687286
+info depth 6 nodes 1085849 time 98060
+info nps 12992.359879691383
+info depth 6 nodes 1089072 time 98318
+info nps 12482.759447547585
+info depth 6 nodes 1092233 time 98575
+info nps 12340.815725419492
+info depth 6 nodes 1095427 time 98833
+info nps 12386.133794879903
+info depth 6 nodes 1098564 time 99094
+info nps 11962.568441502732
+info depth 6 nodes 1101609 time 99357
+info nps 11663.024036493362
+info depth 6 nodes 1105281 time 99621
+info nps 13847.850243871162
+info depth 6 nodes 1108812 time 99884
+info nps 13462.481086993652
+info depth 6 nodes 1112251 time 100146
+info nps 13185.198912133033
+info depth 6 nodes 1115610 time 100406
+info nps 12862.9253942786
+info depth 6 nodes 1118805 time 100667
+info nps 12173.810024118797
+info depth 6 nodes 1121995 time 100941
+info nps 11685.495740757917
+info depth 6 nodes 1125521 time 101210
+info nps 13216.66808302477
+info depth 6 nodes 1129392 time 101481
+info nps 14367.57601171496
+info depth 6 nodes 1132670 time 101734
+info nps 12950.973559387101
+info depth 6 nodes 1135818 time 102004
+info nps 11738.222251932739
+info depth 6 nodes 1138836 time 102267
+info nps 11455.82537208271
+info depth 6 nodes 1141714 time 102526
+info nps 11164.886195455432
+info depth 6 nodes 1144791 time 102787
+info nps 11708.02603497768
+info depth 6 nodes 1148160 time 103053
+info nps 12784.402529071052
+info depth 6 nodes 1151482 time 103306
+info nps 13147.389266644612
+info depth 6 nodes 1154972 time 103567
+info nps 13366.630368845623
+info depth 6 nodes 1158412 time 103832
+info nps 13042.296960622552
+info depth 6 nodes 1161717 time 104100
+info nps 11341.223319920062
+info depth 6 nodes 1164854 time 104391
+info nps 11685.937924914402
+info depth 6 nodes 1168299 time 104650
+info nps 13308.763051439435
+info depth 6 nodes 1171505 time 104905
+info nps 12586.482851753723
+info depth 6 nodes 1175175 time 105174
+info nps 13680.807215136732
+info depth 6 nodes 1178785 time 105434
+info nps 13899.209490955356
+info depth 6 nodes 1182111 time 105696
+info nps 12725.548332481938
+info depth 6 nodes 1185318 time 105953
+info nps 12427.280880061988
+info depth 6 nodes 1188436 time 106216
+info nps 11907.689735211603
+info depth 6 nodes 1191657 time 106472
+info nps 12503.152876431119
+info depth 6 nodes 1194945 time 106738
+info nps 12430.697768643098
+info depth 6 nodes 1198368 time 107007
+info nps 12788.99035472793
+info depth 6 nodes 1201328 time 107275
+info nps 10916.500874101162
+info depth 6 nodes 1204530 time 107539
+info nps 12200.087285840436
+info depth 6 nodes 1207699 time 107795
+info nps 12384.475113649176
+info depth 6 nodes 1210784 time 108053
+info nps 11955.5572145831
+info depth 6 nodes 1213951 time 108308
+info nps 12380.921193584238
+info depth 6 nodes 1217099 time 108577
+info nps 11763.696885833742
+info depth 6 nodes 1220604 time 108835
+info nps 13543.537120036113
+info depth 6 nodes 1224037 time 109093
+info nps 13331.832444794223
+info depth 6 nodes 1227791 time 109348
+info nps 14706.161093765322
+info depth 6 nodes 1231409 time 109615
+info nps 13523.409064188936
+info depth 6 nodes 1234777 time 109883
+info nps 12579.32796752154
+info depth 6 nodes 1237428 time 110143
+info nps 10180.44062742206
+info depth 6 nodes 1240570 time 110414
+info nps 11632.513394306914
+info depth 6 nodes 1243772 time 110680
+info nps 12095.881597562302
+info depth 6 nodes 1247073 time 110942
+info nps 12616.836605790391
+info depth 6 nodes 1250347 time 111208
+info nps 12340.171929528417
+info depth 6 nodes 1253566 time 111465
+info nps 12418.738548114394
+info depth 6 nodes 1256710 time 111726
+info nps 12121.515913249543
+info depth 6 nodes 1260104 time 111981
+info nps 13197.013005174102
+info depth 6 nodes 1263482 time 112255
+info nps 12429.34754629314
+info depth 6 nodes 1266692 time 112506
+info nps 12761.58613257202
+info depth 6 nodes 1270108 time 112764
+info nps 13240.355633589306
+info depth 6 nodes 1273445 time 113028
+info nps 12682.108389976082
+info depth 6 nodes 1276886 time 113292
+info nps 13024.617955943691
+info depth 6 nodes 1280265 time 113545
+info nps 13386.687713763513
+info depth 6 nodes 1283299 time 113803
+info nps 11698.097042818641
+info depth 6 nodes 1286293 time 114071
+info nps 11222.985125608906
+info depth 6 nodes 1289272 time 114333
+info nps 11419.964624959057
+info depth 6 nodes 1292152 time 114590
+info nps 11258.629556644859
+info depth 6 nodes 1294935 time 114856
+info nps 10396.625574886391
+info depth 6 nodes 1298490 time 115114
+info nps 13802.340003665628
+info depth 6 nodes 1302017 time 115371
+info nps 13717.42289142069
+info depth 6 nodes 1305574 time 115636
+info nps 13574.45296475702
+info depth 6 nodes 1309077 time 115895
+info nps 13475.201066531472
+info depth 6 nodes 1312522 time 116150
+info nps 13513.841089084835
+info depth 6 nodes 1315353 time 116402
+info nps 11219.290464100293
+info depth 6 nodes 1319084 time 116664
+info nps 14289.361355228239
+info depth 6 nodes 1322646 time 116932
+info nps 13341.505094372063
+info depth 6 nodes 1325820 time 117187
+info nps 12480.824049785591
+info depth 6 nodes 1328771 time 117446
+info nps 11337.63075016928
+info depth 6 nodes 1331920 time 117715
+info nps 11766.208951907454
+info depth 6 nodes 1334987 time 117971
+info nps 12001.774648556666
+info depth 6 nodes 1338469 time 118229
+info nps 13563.705188902386
+info depth 6 nodes 1341945 time 118494
+info nps 13081.551740698
+info depth 6 nodes 1345501 time 118762
+info nps 13332.66627440765
+info depth 6 nodes 1348876 time 119015
+info nps 13356.231890348092
+info depth 6 nodes 1352533 time 119273
+info nps 14165.849848307837
+info depth 6 nodes 1355598 time 119527
+info nps 12100.14924895015
+info depth 6 nodes 1359429 time 119795
+info nps 14349.68556680405
+info depth 6 nodes 1362449 time 120053
+info nps 11682.877794984224
+info depth 6 nodes 1365594 time 120311
+info nps 12220.803189932147
+info depth 6 nodes 1368612 time 120572
+info nps 11616.932349840365
+info depth 6 nodes 1371480 time 120832
+info nps 11059.101918863764
+info depth 6 nodes 1374750 time 121093
+info nps 12544.03219140674
+info depth 6 nodes 1378063 time 121351
+info nps 12880.130835611993
+info depth 6 nodes 1381396 time 121611
+info nps 12783.781919869634
+info depth 6 nodes 1384536 time 121867
+info nps 12318.707117569204
+info depth 6 nodes 1388052 time 122125
+info nps 13609.600773727236
+info depth 6 nodes 1391527 time 122381
+info nps 13602.64452196831
+info depth 6 nodes 1394884 time 122636
+info nps 13172.300679579219
+info depth 6 nodes 1397887 time 122900
+info nps 11393.227945680104
+info depth 6 nodes 1401208 time 123167
+info nps 12408.855034334862
+info depth 6 nodes 1404734 time 123423
+info nps 13762.97231157513
+info depth 6 nodes 1408061 time 123681
+info nps 12875.16748902272
+info depth 6 nodes 1411898 time 123952
+info nps 14283.045498836917
+info depth 6 nodes 1415461 time 124217
+info nps 13475.424653832048
+info depth 6 nodes 1418470 time 124474
+info nps 11715.96558916989
+info depth 6 nodes 1421461 time 124734
+info nps 11456.089261446943
+info depth 6 nodes 1424594 time 124998
+info nps 11938.815437387702
+info score cp -20 depth 6 nodes 1425186 time 125046 pv d1a4 d7d6 f1b5 c8d7 b1d2 e8g8
+['d1a4', 'd7d6', 'f1b5', 'c8d7', 'b1d2', 'e8g8']
+Current board FEN: r1b1k2r/ppppnppp/2n2q2/2b5/3NP3/2P1B3/PP3PPP/RN1QKB1R w KQkq - 0 1
+Current board state:
+8    r  .  b  .  k  .  .  r
+7    p  p  p  p  n  p  p  p
+6    .  .  n  .  .  q  .  .
+5    .  .  b  .  .  .  .  .
+4    .  .  .  N  P  .  .  .
+3    .  .  P  .  B  .  .  .
+2    P  P  .  .  .  P  P  P
+1    R  N  .  Q  K  B  .  R
+
+     a  b  c  d  e  f  g  h  
+Outcome: None
+         1437117596 function calls (1435690359 primitive calls) in 125.032 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     73/1    0.002    0.000  125.615  125.615 {built-in function exec}
+        1    0.000    0.000  125.615  125.615 communication.py:1(<module>)
+        1    0.000    0.000  125.099  125.099 communication.py:255(main)
+        1    0.000    0.000  125.054  125.054 communication.py:187(start)
+        1    0.000    0.000  125.050  125.050 engine.py:153(go)
+        1    0.000    0.000  125.047  125.047 search.py:235(search)
+ 862374/6    1.368    0.000  125.042   20.840 search.py:168(_minimax_alpha_beta)
+1237379/674567    1.581    0.000  100.303    0.000 search.py:115(_quiescence)
+  1237379    0.591    0.000   69.834    0.000 evaluation.py:328(evaluate_board)
+  2474758    1.599    0.000   45.435    0.000 evaluation.py:310(_compute_positions)
+ 14848548   21.604    0.000   43.836    0.000 evaluation.py:107(apply_heatmap_dynamic)
+   582100    0.708    0.000   30.267    0.000 search.py:76(move_orderer_shortened)
+   582100    4.440    0.000   29.558    0.000 moveordering.py:85(generate_ordered_moves_v1)
+  8661653    0.610    0.000   22.157    0.000 evaluation.py:236(_count_piece_type)
+965155620   21.278    0.000   21.278    0.000 evaluation.py:117(<genexpr>)
+  1237379    0.820    0.000   20.959    0.000 evaluation.py:247(_sum_materials)
+ 17323306   20.827    0.000   20.827    0.000 utils.py:24(count_bin_ones)
+  9063009    2.542    0.000   18.793    0.000 __init__.py:3490(generate_legal_moves)
+  9097086    4.236    0.000   11.260    0.000 __init__.py:1652(generate_pseudo_legal_moves)
+   582134    0.273    0.000   10.713    0.000 movegeneration.py:37(probe_pv_table)
+   600641    0.970    0.000   10.524    0.000 movegeneration.py:69(position_fen)
+   600643    3.055    0.000    7.935    0.000 __init__.py:925(board_fen)
+  1425207    0.256    0.000    7.390    0.000 movegeneration.py:21(push)
+  1425207    3.065    0.000    7.134    0.000 __init__.py:2142(push)
+ 41094708    2.087    0.000    6.591    0.000 __init__.py:675(piece_at)
+ 45411853    5.478    0.000    5.478    0.000 __init__.py:685(piece_type_at)
+ 28247810    2.645    0.000    3.186    0.000 __init__.py:278(scan_reversed)
+  1237379    0.765    0.000    2.783    0.000 evaluation.py:343(is_endgame)
+  8579850    0.900    0.000    2.609    0.000 __init__.py:3452(_is_safe)
+   211458    0.559    0.000    2.106    0.000 __init__.py:3465(_generate_evasions)
+  3767256    2.013    0.000    2.013    0.000 __init__.py:725(attacks_mask)
+   613476    0.794    0.000    1.957    0.000 __init__.py:3526(generate_castling_moves)
+ 32171854    1.674    0.000    1.674    0.000 __init__.py:651(pieces_mask)
+  1585553    1.589    0.000    1.589    0.000 __init__.py:755(_attackers_mask)
+  1262991    0.114    0.000    1.423    0.000 __init__.py:773(attackers_mask)
+  2891911    0.616    0.000    1.275    0.000 __init__.py:851(_remove_piece_at)
+ 40754872    1.172    0.000    1.172    0.000 {method 'append' of 'list' objects}
+  1439049    0.891    0.000    1.165    0.000 __init__.py:887(_set_piece_at)
+  9343360    0.857    0.000    1.036    0.000 __init__.py:3108(is_capture)
+ 22648430    1.007    0.000    1.007    0.000 <string>:2(__eq__)
+   492965    0.353    0.000    0.961    0.000 __init__.py:776(is_attacked_by)
+  1201282    0.918    0.000    0.940    0.000 __init__.py:3218(has_kingside_castling_rights)
+  1734356    0.881    0.000    0.934    0.000 moveordering.py:33(ordered_move_generator)
+   582216    0.733    0.000    0.905    0.000 __init__.py:3433(_slider_blockers)
+ 16107415    0.378    0.000    0.883    0.000 __init__.py:464(symbol)
+  1425189    0.833    0.000    0.833    0.000 __init__.py:2087(is_repetition)
+   215291    0.308    0.000    0.699    0.000 __init__.py:3523(_attacked_for_king)
+  1425207    0.473    0.000    0.681    0.000 movegeneration.py:25(pop)
+ 18769768    0.628    0.000    0.628    0.000 {method 'bit_length' of 'int' objects}
+  1425207    0.425    0.000    0.532    0.000 __init__.py:2136(_board_state)
+   316/18    0.001    0.000    0.516    0.029 <frozen importlib._bootstrap>:1083(__import__)
+   513/28    0.001    0.000    0.516    0.018 <frozen importlib._bootstrap>:1003(_gcd_import)
+   513/28    0.002    0.000    0.516    0.018 <frozen importlib._bootstrap>:987(_find_and_load)
+     81/7    0.000    0.000    0.515    0.074 <frozen importlib._bootstrap>:957(_find_and_load_unlocked)
+     67/7    0.001    0.000    0.512    0.073 <frozen importlib._bootstrap>:672(_load_unlocked)
+     51/7    0.000    0.000    0.512    0.073 frozen importlib._bootstrap_external:735(exec_module)
+   599484    0.319    0.000    0.506    0.000 __init__.py:3138(is_castling)
+     99/7    0.002    0.000    0.501    0.072 <frozen importlib._bootstrap>:220(_call_with_frames_removed)
+   187810    0.170    0.000    0.478    0.000 __init__.py:1751(is_check)
+ 16107415    0.255    0.000    0.401    0.000 __init__.py:60(piece_symbol)
+   536203    0.059    0.000    0.391    0.000 __init__.py:3524(<genexpr>)
+        2    0.000    0.000    0.383    0.191 __init__.py:17(<module>)
+  1201336    0.367    0.000    0.367    0.000 {method 'format' of 'str' objects}
+ 15772440    0.358    0.000    0.359    0.000 __init__.py:3101(is_en_passant)
+   788180    0.358    0.000    0.358    0.000 __init__.py:444(between)
+    18507    0.034    0.000    0.353    0.000 movegeneration.py:29(store_pv_move)
+   394379    0.283    0.000    0.321    0.000 __init__.py:3510(generate_legal_ep)
+        3    0.050    0.017    0.321    0.107 __init__.py:402(_attack_table)
+   187810    0.024    0.000    0.308    0.000 __init__.py:1739(checkers_mask)
+  1201282    0.266    0.000    0.283    0.000 __init__.py:3239(has_queenside_castling_rights)
+   601742    0.278    0.000    0.279    0.000 {method 'join' of 'str' objects}
+    10816    0.172    0.000    0.270    0.000 __init__.py:363(_sliding_attacks)
+ 10601210    0.247    0.000    0.247    0.000 <string>:2(__init__)
+  8480992    0.245    0.000    0.245    0.000 moveordering.py:16(__init__)
+  1425207    0.226    0.000    0.226    0.000 __init__.py:3113(is_zeroing)
+  1875190    0.125    0.000    0.213    0.000 __init__.py:275(msb)
+  1425207    0.140    0.000    0.208    0.000 __init__.py:2263(pop)
+   707646    0.172    0.000    0.172    0.000 {built-in function abs}
+  1425207    0.151    0.000    0.157    0.000 __init__.py:3571(_to_chess960)
+ 16107415    0.146    0.000    0.146    0.000 typing.py:898(cast)
+   394293    0.137    0.000    0.137    0.000 __init__.py:3518(generate_legal_captures)
+   582357    0.085    0.000    0.116    0.000 __init__.py:576(null)
+  7784488    0.104    0.000    0.104    0.000 {method 'upper' of 'str' objects}
+  1531729    0.082    0.000    0.101    0.000 __init__.py:3556(_from_chess960)
+    53810    0.051    0.000    0.098    0.000 __init__.py:207(square_distance)
+  1425293    0.092    0.000    0.092    0.000 __init__.py:544(__bool__)
+  4028369    0.088    0.000    0.088    0.000 __init__.py:3157(clean_castling_rights)
+2337956/2337858    0.084    0.000    0.084    0.000 {built-in function len}
+        1    0.000    0.000    0.077    0.077 engine.py:1(<module>)
+  1425186    0.063    0.000    0.077    0.000 __init__.py:2015(is_fifty_moves)
+   787691    0.075    0.000    0.075    0.000 __init__.py:2139(_push_capture)
+  1425207    0.056    0.000    0.075    0.000 typing.py:814(__new__)
+        1    0.000    0.000    0.069    0.069 search.py:1(<module>)
+   117387    0.068    0.000    0.068    0.000 __init__.py:441(ray)
+  1237379    0.066    0.000    0.066    0.000 evaluation.py:22(__init__)
+       51    0.002    0.000    0.057    0.001 frozen importlib._bootstrap_external:806(get_code)
+   417999    0.051    0.000    0.056    0.000 __init__.py:1719(generate_pseudo_legal_ep)
+  1459962    0.056    0.000    0.056    0.000 __init__.py:203(square_rank)
+   188115    0.033    0.000    0.055    0.000 __init__.py:714(king)
+        6    0.004    0.001    0.055    0.009 __init__.py:1(<module>)
+  1334424    0.054    0.000    0.054    0.000 __init__.py:199(square_file)
+        1    0.000    0.000    0.045    0.045 moveordering.py:1(<module>)
+  1483383    0.044    0.000    0.044    0.000 __init__.py:1834(is_variant_end)
+        1    0.000    0.000    0.042    0.042 random.py:1(<module>)
+  125/101    0.000    0.000    0.042    0.000 <frozen importlib._bootstrap>:1018(_handle_fromlist)
+  1425207    0.040    0.000    0.040    0.000 __init__.py:1395(restore)
+        1    0.000    0.000    0.036    0.036 hashlib.py:5(<module>)
+       76    0.001    0.000    0.034    0.000 <frozen importlib._bootstrap>:891(_find_spec)
+        1    0.000    0.000    0.034    0.034 __init__.py:15(<module>)
+       64    0.000    0.000    0.032    0.000 frozen importlib._bootstrap_external:1285(find_spec)
+  1425207    0.032    0.000    0.032    0.000 __init__.py:1375(__init__)
+       64    0.001    0.000    0.032    0.000 frozen importlib._bootstrap_external:1253(_get_spec)
+       53    0.003    0.000    0.032    0.001 frozen importlib._bootstrap_external:927(get_data)
+        1    0.000    0.000    0.030    0.030 context.py:1(<module>)
+      256    0.004    0.000    0.029    0.000 frozen importlib._bootstrap_external:1369(find_spec)
+       53    0.029    0.001    0.029    0.001 {method 'read' of '_io.FileIO' objects}
+  2850420    0.028    0.000    0.028    0.000 {method 'pop' of 'list' objects}
+        1    0.000    0.000    0.022    0.022 reduction.py:10(<module>)
+        1    0.000    0.000    0.021    0.021 evaluation.py:368(__init__)
+        1    0.007    0.007    0.019    0.019 evaluation.py:375(_generate_bitmasks)
+        1    0.000    0.000    0.016    0.016 evaluation.py:521(__init__)
+        1    0.007    0.007    0.015    0.015 evaluation.py:528(_generate_bitmasks)
+        1    0.013    0.013    0.015    0.015 __init__.py:423(_rays)
+  1425189    0.014    0.000    0.014    0.000 __init__.py:1985(_is_halfmoves)
+      384    0.000    0.000    0.014    0.000 frozen importlib._bootstrap_external:74(_path_stat)
+      384    0.008    0.000    0.014    0.000 {built-in function posix.stat}
+        1    0.000    0.000    0.013    0.013 evaluation.py:1(<module>)
+  214/212    0.003    0.000    0.013    0.000 {built-in function __build_class__}
+   187807    0.013    0.000    0.013    0.000 __init__.py:3736(__iter__)
+        1    0.000    0.000    0.012    0.012 socket.py:4(<module>)
+       67    0.000    0.000    0.012    0.000 <frozen importlib._bootstrap>:585(module_from_spec)
+        1    0.000    0.000    0.011    0.011 dataclasses.py:1(<module>)
+        8    0.000    0.000    0.011    0.001 enum.py:638(_convert)
+       14    0.000    0.000    0.010    0.001 hashlib.py:117(__get_openssl_constructor)
+        8    0.000    0.000    0.010    0.001 hashlib.py:74(__get_builtin_constructor)
+   187807    0.007    0.000    0.010    0.000 __init__.py:1541(legal_moves)
+      125    0.000    0.000    0.009    0.000 re.py:273(_compile)
+       21    0.000    0.000    0.009    0.000 re.py:234(compile)
+       49    0.000    0.000    0.009    0.000 frozen importlib._bootstrap_external:536(_compile_bytecode)
+       17    0.000    0.000    0.009    0.001 sre_compile.py:759(compile)
+       49    0.008    0.000    0.008    0.000 {built-in function marshal.loads}
+       12    0.002    0.000    0.007    0.001 enum.py:140(__new__)
+        1    0.000    0.000    0.007    0.007 inspect.py:1(<module>)
+        4    0.000    0.000    0.007    0.002 frozen importlib._bootstrap_external:1053(create_module)
+       29    0.000    0.000    0.007    0.000 __init__.py:1356(debug)
+        4    0.007    0.002    0.007    0.002 {built-in function _imp.create_dynamic}
+       29    0.000    0.000    0.007    0.000 __init__.py:1491(_log)
+      384    0.007    0.000    0.007    0.000 utils.py:45(array_to_bitboard)
+      407    0.005    0.000    0.007    0.000 frozen _structseq:79(structseq_new)
+        2    0.000    0.000    0.007    0.003 frozen importlib._bootstrap_external:798(source_to_code)
+        4    0.007    0.002    0.007    0.002 {built-in function compile}
+        1    0.000    0.000    0.006    0.006 pickle.py:1(<module>)
+      256    0.000    0.000    0.006    0.000 __init__.py:381(_step_attacks)
+        1    0.000    0.000    0.006    0.006 certificate.py:1(<module>)
+        9    0.000    0.000    0.006    0.001 frozen importlib._bootstrap_external:1417(_fill_cache)
+        9    0.006    0.001    0.006    0.001 {built-in function posix.listdir}
+      513    0.001    0.000    0.006    0.000 <frozen importlib._bootstrap>:156(__enter__)
+        8    0.004    0.001    0.006    0.001 enum.py:659(<listcomp>)
+    53831    0.006    0.000    0.006    0.000 {built-in function max}
+        1    0.000    0.000    0.005    0.005 traceback.py:1(<module>)
+    10560    0.005    0.000    0.005    0.000 __init__.py:393(_carry_rippler)
+        1    0.000    0.000    0.005    0.005 process.py:10(<module>)
+       52    0.000    0.000    0.005    0.000 enum.py:289(__call__)
+      820    0.001    0.000    0.005    0.000 frozen importlib._bootstrap_external:56(_path_join)
+        8    0.000    0.000    0.005    0.001 enum.py:394(_create_)
+       17    0.000    0.000    0.005    0.000 sre_parse.py:913(parse)
+       29    0.000    0.000    0.005    0.000 __init__.py:1516(handle)
+       29    0.000    0.000    0.005    0.000 __init__.py:1570(callHandlers)
+      113    0.000    0.000    0.005    0.000 __init__.py:1766(is_into_check)
+       29    0.000    0.000    0.005    0.000 __init__.py:881(handle)
+        3    0.000    0.000    0.004    0.001 evaluation.py:135(__init__)
+    43/17    0.000    0.000    0.004    0.000 sre_parse.py:411(_parse_sub)
+       29    0.000    0.000    0.004    0.000 __init__.py:1118(emit)
+        1    0.000    0.000    0.004    0.004 decoder.py:1(<module>)
+       29    0.000    0.000    0.004    0.000 __init__.py:1013(emit)
+      945    0.003    0.000    0.004    0.000 <frozen importlib._bootstrap>:166(_get_module_lock)
+    51/18    0.001    0.000    0.004    0.000 sre_parse.py:469(_parse)
+        1    0.000    0.000    0.004    0.004 linecache.py:1(<module>)
+      820    0.004    0.000    0.004    0.000 frozen importlib._bootstrap_external:58(<listcomp>)
+        1    0.000    0.000    0.004    0.004 typing.py:1(<module>)
+        2    0.000    0.000    0.004    0.002 frozen importlib._bootstrap_external:969(_cache_bytecode)
+        7    0.000    0.000    0.004    0.001 communication.py:249(output)
+       17    0.000    0.000    0.004    0.000 sre_compile.py:598(_code)
+        2    0.000    0.000    0.004    0.002 frozen importlib._bootstrap_external:974(set_data)
+       12    0.003    0.000    0.004    0.000 enum.py:182(<setcomp>)
+        2    0.000    0.000    0.004    0.002 frozen importlib._bootstrap_external:105(_write_atomic)
+       75    0.000    0.000    0.004    0.000 frozen importlib._bootstrap_external:84(_path_is_mode_type)
+       11    0.002    0.000    0.003    0.000 __init__.py:319(namedtuple)
+        1    0.000    0.000    0.003    0.003 datetime.py:1(<module>)
+        1    0.000    0.000    0.003    0.003 evaluation.py:275(__init__)
+      432    0.001    0.000    0.003    0.000 <frozen importlib._bootstrap>:203(_lock_unlock_module)
+        1    0.000    0.000    0.003    0.003 tokenize.py:1(<module>)
+       29    0.000    0.000    0.003    0.000 __init__.py:858(format)
+        1    0.000    0.000    0.003    0.003 error.py:1(<module>)
+       29    0.000    0.000    0.003    0.000 __init__.py:595(format)
+    89/17    0.001    0.000    0.003    0.000 sre_compile.py:71(_compile)
+       70    0.000    0.000    0.003    0.000 typing.py:608(__init__)
+        7    0.000    0.000    0.003    0.000 movegeneration.py:44(generate_pv_line)
+        2    0.003    0.002    0.003    0.002 {built-in function posix.replace}
+       64    0.000    0.000    0.003    0.000 frozen importlib._bootstrap_external:93(_path_isfile)
+        1    0.000    0.000    0.003    0.003 signal.py:1(<module>)
+    66/62    0.000    0.000    0.003    0.000 typing.py:248(inner)
+        5    0.001    0.000    0.003    0.001 movegeneration.py:84(__str__)
+    66/62    0.000    0.000    0.003    0.000 functools.py:539(wrapper)
+        1    0.000    0.000    0.003    0.003 __init__.py:385(<listcomp>)
+      945    0.002    0.000    0.002    0.000 <frozen importlib._bootstrap>:87(acquire)
+      945    0.002    0.000    0.002    0.000 <frozen importlib._bootstrap>:112(release)
+        1    0.000    0.000    0.002    0.002 dis.py:1(<module>)
+   187807    0.002    0.000    0.002    0.000 __init__.py:3726(__init__)
+       67    0.001    0.000    0.002    0.000 <frozen importlib._bootstrap>:513(_init_module_attrs)
+        1    0.000    0.000    0.002    0.002 __init__.py:384(<listcomp>)
+       12    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap>:749(create_module)
+        1    0.000    0.000    0.002    0.002 scanner.py:1(<module>)
+        1    0.000    0.000    0.002    0.002 string.py:1(<module>)
+        5    0.001    0.000    0.002    0.000 __init__.py:1189(__str__)
+      513    0.002    0.000    0.002    0.000 <frozen importlib._bootstrap>:938(_sanity_check)
+      184    0.001    0.000    0.002    0.000 __init__.py:795(pin_mask)
+       38    0.000    0.000    0.002    0.000 typing.py:1202(_alias)
+        3    0.000    0.000    0.002    0.001 __init__.py:280(load)
+        1    0.000    0.000    0.002    0.002 selectors.py:1(<module>)
+        3    0.002    0.001    0.002    0.001 {method 'read' of '_io.TextIOWrapper' objects}
+        6    0.000    0.000    0.002    0.000 engine.py:83(_log_completed_depth)
+      512    0.002    0.000    0.002    0.000 evaluation.py:540(<listcomp>)
+        1    0.000    0.000    0.002    0.002 argparse.py:1625(__init__)
+       51    0.000    0.000    0.002    0.000 frozen importlib._bootstrap_external:964(path_stats)
+        3    0.000    0.000    0.002    0.001 dataclasses.py:1001(wrap)
+        3    0.000    0.000    0.002    0.001 dataclasses.py:795(_process_class)
+      102    0.001    0.000    0.002    0.000 frozen importlib._bootstrap_external:284(cache_from_source)
+       46    0.001    0.000    0.002    0.000 sre_compile.py:276(_optimize_charset)
+        1    0.000    0.000    0.002    0.002 string.py:65(__init__)
+      513    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap>:160(__exit__)
+       15    0.000    0.000    0.002    0.000 evaluation.py:166(_parse_board_heatmap)
+     4640    0.002    0.000    0.002    0.000 {built-in function isinstance}
+        2    0.000    0.000    0.002    0.001 search.py:96(_init_search_info)
+        2    0.000    0.000    0.002    0.001 __init__.py:386(<listcomp>)
+      872    0.002    0.000    0.002    0.000 <frozen importlib._bootstrap>:231(_verbose_message)
+        6    0.000    0.000    0.002    0.000 communication.py:164(output)
+       29    0.000    0.000    0.001    0.000 __init__.py:1476(makeRecord)
+      505    0.001    0.000    0.001    0.000 typing.py:709(__setattr__)
+      512    0.001    0.000    0.001    0.000 evaluation.py:410(<listcomp>)
+       29    0.001    0.000    0.001    0.000 __init__.py:282(__init__)
+       15    0.000    0.000    0.001    0.000 evaluation.py:59(__init__)
+      106    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:412(cached)
+      512    0.001    0.000    0.001    0.000 evaluation.py:563(<listcomp>)
+        4    0.001    0.000    0.001    0.000 {built-in function _io.open}
+      146    0.001    0.000    0.001    0.000 enum.py:71(__setitem__)
+       29    0.000    0.000    0.001    0.000 __init__.py:360(getMessage)
+        1    0.000    0.000    0.001    0.001 evaluation.py:284(_parse_config)
+      512    0.001    0.000    0.001    0.000 evaluation.py:550(<listcomp>)
+      512    0.001    0.000    0.001    0.000 evaluation.py:397(<listcomp>)
+       29    0.000    0.000    0.001    0.000 __init__.py:528(formatTime)
+        1    0.000    0.000    0.001    0.001 communication.py:22(configure_logging)
+       55    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:382(_get_cached)
+      512    0.001    0.000    0.001    0.000 evaluation.py:387(<listcomp>)
+        1    0.000    0.000    0.001    0.001 encoder.py:1(<module>)
+        3    0.000    0.000    0.001    0.000 dataclasses.py:987(dataclass)
+      522    0.001    0.000    0.001    0.000 sre_parse.py:254(get)
+      422    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:1216(_path_importer_cache)
+        3    0.000    0.000    0.001    0.000 evaluation.py:196(_log_base_config)
+       76    0.000    0.000    0.001    0.000 typing.py:165(_collect_type_vars)
+        3    0.000    0.000    0.001    0.000 argparse.py:1328(add_argument)
+        1    0.001    0.001    0.001    0.001 errorcodes.py:4(<module>)
+       29    0.000    0.000    0.001    0.000 __init__.py:1002(flush)
+       31    0.000    0.000    0.001    0.000 {built-in function time.localtime}
+        1    0.000    0.000    0.001    0.001 opcode.py:2(<module>)
+        1    0.000    0.000    0.001    0.001 search.py:62(__init__)
+        1    0.000    0.000    0.001    0.001 __init__.py:1069(__init__)
+       27    0.000    0.000    0.001    0.000 __init__.py:1831(is_legal)
+       55    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:1364(_get_spec)
+      189    0.000    0.000    0.001    0.000 enum.py:381(__setattr__)
+       13    0.000    0.000    0.001    0.000 typing.py:626(__getitem__)
+        1    0.000    0.000    0.001    0.001 copy.py:1(<module>)
+      192    0.001    0.000    0.001    0.000 __init__.py:389(_edges)
+        2    0.000    0.000    0.001    0.000 movegeneration.py:12(__init__)
+        3    0.000    0.000    0.001    0.000 argparse.py:2479(_get_formatter)
+       76    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:728(find_spec)
+        3    0.000    0.000    0.001    0.000 argparse.py:159(__init__)
+      187    0.001    0.000    0.001    0.000 <frozen importlib._bootstrap>:58(__init__)
+        2    0.000    0.000    0.001    0.000 __init__.py:1525(__init__)
+       51    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:451(_classify_pyc)
+        1    0.000    0.000    0.001    0.001 io.py:1(<module>)
+       12    0.001    0.000    0.001    0.000 {built-in function _imp.create_builtin}
+       10    0.000    0.000    0.001    0.000 dataclasses.py:364(_create_fn)
+        1    0.000    0.000    0.001    0.001 engine.py:134(set_position)
+        2    0.000    0.000    0.001    0.000 utils.py:7(call_repeatedly)
+       29    0.001    0.000    0.001    0.000 {method 'flush' of '_io.TextIOWrapper' objects}
+        1    0.000    0.000    0.001    0.001 __init__.py:1111(_open)
+        1    0.000    0.000    0.001    0.001 __init__.py:2394(set_fen)
+      184    0.001    0.000    0.001    0.000 __init__.py:3406(_ep_skewered)
+      104    0.000    0.000    0.001    0.000 re.py:172(match)
+      128    0.001    0.000    0.001    0.000 search.py:106(<listcomp>)
+        9    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:1203(_path_hooks)
+      248    0.000    0.000    0.001    0.000 {built-in function setattr}
+        1    0.000    0.000    0.001    0.001 threading.py:1(<module>)
+        1    0.000    0.000    0.001    0.001 __init__.py:956(_set_board_fen)
+       12    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:442(spec_from_loader)
+        9    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:1458(path_hook_for_FileFinder)
+       18    0.000    0.000    0.001    0.000 typing.py:638(copy_with)
+        1    0.000    0.000    0.001    0.001 pickle.py:193(<listcomp>)
+       67    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:327(__exit__)
+     1162    0.001    0.000    0.001    0.000 {built-in function hasattr}
+      375    0.001    0.000    0.001    0.000 {method '__setattr__' of 'stat_result' objects}
+        2    0.000    0.000    0.001    0.000 threading.py:834(start)
+       49    0.001    0.000    0.001    0.000 {built-in function _imp._fix_co_filename}
+       17    0.000    0.000    0.001    0.000 sre_compile.py:536(_compile_info)
+       13    0.000    0.000    0.001    0.000 typing.py:180(_subs_tvars)
+     3000    0.001    0.000    0.001    0.000 {method 'startswith' of 'str' objects}
+        2    0.000    0.000    0.001    0.000 __init__.py:2355(fen)
+     11/7    0.000    0.000    0.001    0.000 typing.py:340(__getitem__)
+       11    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:98(_path_isdir)
+       12    0.001    0.000    0.001    0.000 <frozen importlib._bootstrap>:241(_requires_builtin_wrapper)
+        1    0.000    0.000    0.001    0.001 bisect.py:1(<module>)
+       56    0.000    0.000    0.001    0.000 evaluation.py:71(<listcomp>)
+        2    0.000    0.000    0.001    0.000 __init__.py:2621(epd)
+       37    0.000    0.000    0.001    0.000 sre_compile.py:423(_simple)
+       55    0.000    0.000    0.001    0.000 frozen importlib._bootstrap_external:587(spec_from_file_location)
+      858    0.000    0.000    0.001    0.000 {built-in function getattr}
+        2    0.001    0.000    0.001    0.000 {built-in function _thread.start_new_thread}
+        1    0.000    0.000    0.001    0.001 argparse.py:3(<module>)
+      220    0.000    0.000    0.000    0.000 socket.py:91(<lambda>)
+       13    0.000    0.000    0.000    0.000 abc.py:125(__new__)
+      513    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:152(__init__)
+        6    0.000    0.000    0.000    0.000 {method 'callback' of '_cffi_backend.FFI' objects}
+        3    0.000    0.000    0.000    0.000 argparse.py:1247(__init__)
+      493    0.000    0.000    0.000    0.000 sre_parse.py:164(__getitem__)
+        4    0.000    0.000    0.000    0.000 search.py:108(<listcomp>)
+        2    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:549(_code_to_timestamp_pyc)
+      651    0.000    0.000    0.000    0.000 sre_parse.py:233(__next)
+       66    0.000    0.000    0.000    0.000 functools.py:427(_make_key)
+       12    0.000    0.000    0.000    0.000 enum.py:130(__prepare__)
+        1    0.000    0.000    0.000    0.000 evaluation.py:131(BaseEvaluator)
+       27    0.000    0.000    0.000    0.000 __init__.py:1782(is_pseudo_legal)
+        6    0.000    0.000    0.000    0.000 typing.py:749(__getitem__)
+      505    0.000    0.000    0.000    0.000 typing.py:595(_is_dunder)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:849(<listcomp>)
+        6    0.000    0.000    0.000    0.000 ?:1(anonymous)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:476(_init_fn)
+      151    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:51(_r_long)
+     1742    0.000    0.000    0.000    0.000 {method 'rstrip' of 'str' objects}
+        8    0.000    0.000    0.000    0.000 dataclasses.py:657(_get_field)
+        1    0.000    0.000    0.000    0.000 utils.py:1(<module>)
+        2    0.000    0.000    0.000    0.000 {built-in function marshal.dumps}
+       29    0.000    0.000    0.000    0.000 __init__.py:1446(findCaller)
+        8    0.000    0.000    0.000    0.000 abc.py:130(register)
+   108/36    0.000    0.000    0.000    0.000 sre_parse.py:174(getwidth)
+       60    0.000    0.000    0.000    0.000 typing.py:113(_type_check)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:526(_repr_fn)
+     1330    0.000    0.000    0.000    0.000 {built-in function _imp.acquire_lock}
+      195    0.000    0.000    0.000    0.000 {method 'get' of 'mappingproxy' objects}
+        5    0.000    0.000    0.000    0.000 typing.py:765(__getitem_inner__)
+      181    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:185(cb)
+       29    0.000    0.000    0.000    0.000 posixpath.py:121(splitext)
+       66    0.000    0.000    0.000    0.000 functools.py:420(__init__)
+        8    0.000    0.000    0.000    0.000 abc.py:141(__subclasscheck__)
+        1    0.000    0.000    0.000    0.000 base64.py:3(<module>)
+       15    0.000    0.000    0.000    0.000 datetime.py:478(__new__)
+       44    0.000    0.000    0.000    0.000 enum.py:531(__new__)
+       32    0.000    0.000    0.000    0.000 enum.py:447(_get_mixins_)
+      619    0.000    0.000    0.000    0.000 {method 'rpartition' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 movegeneration.py:1(<module>)
+        5    0.000    0.000    0.000    0.000 enum.py:835(__or__)
+        3    0.000    0.000    0.000    0.000 gettext.py:628(gettext)
+        3    0.000    0.000    0.000    0.000 gettext.py:589(dgettext)
+       76    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:378(__init__)
+     1951    0.000    0.000    0.000    0.000 {built-in function _thread.get_ident}
+       30    0.000    0.000    0.000    0.000 {built-in function time.strftime}
+      204    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:868(__exit__)
+       12    0.000    0.000    0.000    0.000 enum.py:479(_find_new_)
+        3    0.000    0.000    0.000    0.000 gettext.py:518(translation)
+       51    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:35(_new_module)
+        5    0.000    0.000    0.000    0.000 typing.py:824(__class_getitem__)
+        1    0.000    0.000    0.000    0.000 engine.py:27(CoeusEngine)
+     1330    0.000    0.000    0.000    0.000 {built-in function _imp.release_lock}
+      104    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:62(_path_split)
+        1    0.000    0.000    0.000    0.000 search.py:50(AlphaBetaMinimaxSearcher)
+        1    0.000    0.000    0.000    0.000 argparse.py:1754(parse_args)
+        1    0.000    0.000    0.000    0.000 argparse.py:1761(parse_known_args)
+      256    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:36(_relax_case)
+      146    0.000    0.000    0.000    0.000 enum.py:34(_is_sunder)
+       51    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:484(_validate_timestamp_pyc)
+       32    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 argparse.py:1796(_parse_known_args)
+        1    0.000    0.000    0.000    0.000 struct.py:1(<module>)
+       14    0.000    0.000    0.000    0.000 sre_compile.py:411(_mk_bitmap)
+        3    0.000    0.000    0.000    0.000 tokenize.py:132(_all_string_prefixes)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:562(_cmp_fn)
+        3    0.000    0.000    0.000    0.000 enum.py:798(_missing_)
+        3    0.000    0.000    0.000    0.000 enum.py:805(_create_pseudo_member_)
+        1    0.000    0.000    0.000    0.000 evaluation.py:419(_parse_config)
+      981    0.000    0.000    0.000    0.000 {method 'isupper' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 {built-in function posix.open}
+       17    0.000    0.000    0.000    0.000 sre_parse.py:224(__init__)
+   166/70    0.000    0.000    0.000    0.000 {built-in function hash}
+        2    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:394(_calc_mode)
+        1    0.000    0.000    0.000    0.000 datetime.py:1660(now)
+        1    0.000    0.000    0.000    0.000 datetime.py:1645(fromtimestamp)
+      387    0.000    0.000    0.000    0.000 {built-in function _thread.allocate_lock}
+        1    0.000    0.000    0.000    0.000 evaluation.py:54(BoardHeatmap)
+        1    0.000    0.000    0.000    0.000 datetime.py:1601(_fromtimestamp)
+      218    0.000    0.000    0.000    0.000 socket.py:81(<lambda>)
+      204    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:864(__enter__)
+        1    0.000    0.000    0.000    0.000 __init__.py:110(_fetch_names)
+        4    0.000    0.000    0.000    0.000 typing.py:241(_tp_cache)
+        1    0.000    0.000    0.000    0.000 _compat_pickle.py:8(<module>)
+      113    0.000    0.000    0.000    0.000 enum.py:18(_is_descriptor)
+       29    0.000    0.000    0.000    0.000 {method 'write' of '_io.TextIOWrapper' objects}
+        1    0.000    0.000    0.000    0.000 argparse.py:1876(consume_optional)
+       12    0.000    0.000    0.000    0.000 _functools.py:77(__call__)
+      278    0.000    0.000    0.000    0.000 sre_parse.py:249(match)
+        3    0.000    0.000    0.000    0.000 enum.py:877(_decompose)
+       16    0.000    0.000    0.000    0.000 functools.py:37(update_wrapper)
+      219    0.000    0.000    0.000    0.000 socket.py:86(<lambda>)
+       17    0.000    0.000    0.000    0.000 enum.py:841(__and__)
+       51    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:414(_check_name_wrapper)
+       19    0.000    0.000    0.000    0.000 sre_parse.py:96(closegroup)
+      146    0.000    0.000    0.000    0.000 enum.py:26(_is_dunder)
+       33    0.000    0.000    0.000    0.000 posixpath.py:144(basename)
+        1    0.000    0.000    0.000    0.000 evaluation.py:572(_parse_config)
+       32    0.000    0.000    0.000    0.000 enum.py:458(_find_data_type)
+       31    0.000    0.000    0.000    0.000 sre_parse.py:408(_uniq)
+        6    0.000    0.000    0.000    0.000 __init__.py:139(new_hash)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:309(field)
+      217    0.000    0.000    0.000    0.000 socket.py:76(<lambda>)
+        6    0.000    0.000    0.000    0.000 __init__.py:11(new)
+        9    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:1332(__init__)
+      407    0.000    0.000    0.000    0.000 {method '__new__' of 'structseqtype' objects}
+      193    0.000    0.000    0.000    0.000 sre_parse.py:160(__len__)
+        2    0.000    0.000    0.000    0.000 __init__.py:3(make_blake_hash)
+        2    0.000    0.000    0.000    0.000 __init__.py:2318(castling_xfen)
+        1    0.000    0.000    0.000    0.000 __init__.py:126(Termination)
+      151    0.000    0.000    0.000    0.000 {method 'from_bytes' of 'type' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:86(Status)
+        3    0.000    0.000    0.000    0.000 gettext.py:478(find)
+      138    0.000    0.000    0.000    0.000 sre_parse.py:286(tell)
+        1    0.000    0.000    0.000    0.000 argparse.py:2083(_match_argument)
+        1    0.000    0.000    0.000    0.000 movegeneration.py:8(SearchBoard)
+       11    0.000    0.000    0.000    0.000 typing.py:535(__init__)
+        1    0.000    0.000    0.000    0.000 utility.py:1(<module>)
+        3    0.000    0.000    0.000    0.000 __init__.py:1874(outcome)
+        3    0.000    0.000    0.000    0.000 threading.py:763(__init__)
+       76    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:425(parent)
+        1    0.000    0.000    0.000    0.000 process.py:341(__init__)
+        3    0.000    0.000    0.000    0.000 __init__.py:305(loads)
+        2    0.000    0.000    0.000    0.000 posixpath.py:376(abspath)
+       15    0.000    0.000    0.000    0.000 evaluation.py:92(<listcomp>)
+       29    0.000    0.000    0.000    0.000 __init__.py:579(formatMessage)
+       16    0.000    0.000    0.000    0.000 dataclasses.py:598(_is_type)
+       68    0.000    0.000    0.000    0.000 signal.py:17(<lambda>)
+       46    0.000    0.000    0.000    0.000 sre_compile.py:249(_compile_charset)
+       11    0.000    0.000    0.000    0.000 typing.py:849(__init_subclass__)
+    84/76    0.000    0.000    0.000    0.000 typing.py:669(__hash__)
+       67    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:320(__enter__)
+      362    0.000    0.000    0.000    0.000 {method 'endswith' of 'str' objects}
+       29    0.000    0.000    0.000    0.000 typing.py:634(<genexpr>)
+        2    0.000    0.000    0.000    0.000 {method 'write' of '_io.FileIO' objects}
+        1    0.000    0.000    0.000    0.000 typing.py:1490(IO)
+       36    0.000    0.000    0.000    0.000 __init__.py:492(from_symbol)
+        6    0.000    0.000    0.000    0.000 __init__.py:18(__init__)
+      126    0.000    0.000    0.000    0.000 {method 'match' of 're.Pattern' objects}
+       55    0.000    0.000    0.000    0.000 utf_8.py:19(encode)
+       15    0.000    0.000    0.000    0.000 evaluation.py:91(<listcomp>)
+       14    0.000    0.000    0.000    0.000 sre_compile.py:413(<listcomp>)
+      189    0.000    0.000    0.000    0.000 {method '__setattr__' of 'EnumMeta' objects}
+       11    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+       59    0.000    0.000    0.000    0.000 __init__.py:120(hash_name_mapper_callback)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:345(_recursive_repr)
+        1    0.000    0.000    0.000    0.000 search.py:16(_SearchInfo)
+       30    0.000    0.000    0.000    0.000 posixpath.py:52(normcase)
+        1    0.000    0.000    0.000    0.000 threading.py:1185(__init__)
+       29    0.000    0.000    0.000    0.000 __init__.py:421(format)
+       67    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:316(__init__)
+      268    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:330(<genexpr>)
+        3    0.000    0.000    0.000    0.000 {built-in function _pypyjson.loads}
+       94    0.000    0.000    0.000    0.000 sre_parse.py:111(__init__)
+       22    0.000    0.000    0.000    0.000 typing.py:351(<genexpr>)
+        5    0.000    0.000    0.000    0.000 datetime.py:1532(__new__)
+        2    0.000    0.000    0.000    0.000 {built-in function posix.getcwd}
+       51    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:897(__init__)
+        9    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:1446(<setcomp>)
+        1    0.000    0.000    0.000    0.000 evaluation.py:520(ViceEvaluatorV2)
+       12    0.000    0.000    0.000    0.000 functools.py:67(wraps)
+        2    0.000    0.000    0.000    0.000 typing.py:1180(__class_getitem__)
+      183    0.000    0.000    0.000    0.000 {method 'partition' of 'str' objects}
+       19    0.000    0.000    0.000    0.000 sre_parse.py:84(opengroup)
+        1    0.000    0.000    0.000    0.000 os.py:42(_get_exports_list)
+      116    0.000    0.000    0.000    0.000 sre_parse.py:172(append)
+        1    0.000    0.000    0.000    0.000 typing.py:1600(TextIO)
+        4    0.000    0.000    0.000    0.000 __init__.py:1928(getLogger)
+        2    0.000    0.000    0.000    0.000 argparse.py:1375(add_argument_group)
+        3    0.000    0.000    0.000    0.000 enum.py:895(<listcomp>)
+       29    0.000    0.000    0.000    0.000 __init__.py:573(usesTime)
+        2    0.000    0.000    0.000    0.000 __init__.py:802(__init__)
+       67    0.000    0.000    0.000    0.000 signal.py:10(<lambda>)
+        1    0.000    0.000    0.000    0.000 __init__.py:71(search_function)
+        5    0.000    0.000    0.000    0.000 threading.py:499(__init__)
+       58    0.000    0.000    0.000    0.000 __init__.py:838(acquire)
+      261    0.000    0.000    0.000    0.000 {built-in function posix.fspath}
+       64    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:801(find_spec)
+        1    0.000    0.000    0.000    0.000 evaluation.py:359(ViceEvaluator)
+        1    0.000    0.000    0.000    0.000 abc.py:1(<module>)
+       15    0.000    0.000    0.000    0.000 os.py:676(__getitem__)
+       26    0.000    0.000    0.000    0.000 sre_parse.py:295(_class_escape)
+       78    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+       12    0.000    0.000    0.000    0.000 enum.py:64(__init__)
+       27    0.000    0.000    0.000    0.000 engine.py:86(<genexpr>)
+        3    0.000    0.000    0.000    0.000 threading.py:513(set)
+        3    0.000    0.000    0.000    0.000 __init__.py:1216(getLogger)
+        2    0.000    0.000    0.000    0.000 argparse.py:1554(__init__)
+        7    0.000    0.000    0.000    0.000 typing.py:212(_remove_dups_flatten)
+       29    0.000    0.000    0.000    0.000 __init__.py:1614(isEnabledFor)
+       58    0.000    0.000    0.000    0.000 __init__.py:845(release)
+       29    0.000    0.000    0.000    0.000 genericpath.py:121(_splitext)
+       15    0.000    0.000    0.000    0.000 evaluation.py:83(<listcomp>)
+        4    0.000    0.000    0.000    0.000 functools.py:492(decorating_function)
+        1    0.000    0.000    0.000    0.000 typing.py:1586(BinaryIO)
+       32    0.000    0.000    0.000    0.000 {method '__setattr__' of 'struct_time' objects}
+       29    0.000    0.000    0.000    0.000 __init__.py:154(<lambda>)
+       12    0.000    0.000    0.000    0.000 _collections_abc.py:657(get)
+       12    0.000    0.000    0.000    0.000 enum.py:340(__getattr__)
+        1    0.000    0.000    0.000    0.000 typing.py:293(_SpecialForm)
+        1    0.000    0.000    0.000    0.000 engine.py:31(__init__)
+        1    0.000    0.000    0.000    0.000 evaluation.py:185(_parse_piece_value_table)
+        1    0.000    0.000    0.000    0.000 __init__.py:1415(Board)
+        5    0.000    0.000    0.000    0.000 posixpath.py:75(join)
+        1    0.000    0.000    0.000    0.000 datetime.py:914(strftime)
+        5    0.000    0.000    0.000    0.000 threading.py:216(__init__)
+       69    0.000    0.000    0.000    0.000 signal.py:22(<lambda>)
+       97    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+    18/14    0.000    0.000    0.000    0.000 sre_compile.py:461(_get_literal_prefix)
+      125    0.000    0.000    0.000    0.000 __init__.py:170(<lambda>)
+        2    0.000    0.000    0.000    0.000 __init__.py:7(_blake)
+        5    0.000    0.000    0.000    0.000 movegeneration.py:85(<listcomp>)
+        1    0.000    0.000    0.000    0.000 opcode.py:37(<listcomp>)
+       29    0.000    0.000    0.000    0.000 __init__.py:418(usesTime)
+      234    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+      168    0.000    0.000    0.000    0.000 typing.py:618(<genexpr>)
+        1    0.000    0.000    0.000    0.000 __init__.py:991(__init__)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:756(_hash_add)
+        3    0.000    0.000    0.000    0.000 threading.py:358(notify_all)
+        2    0.000    0.000    0.000    0.000 posixpath.py:338(normpath)
+       40    0.000    0.000    0.000    0.000 posixpath.py:41(_get_sep)
+        1    0.000    0.000    0.000    0.000 inspect.py:2444(_ParameterKind)
+       12    0.000    0.000    0.000    0.000 _functools.py:42(__init__)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:576(_hash_fn)
+        3    0.000    0.000    0.000    0.000 _bootlocale.py:33(getpreferredencoding)
+      158    0.000    0.000    0.000    0.000 {method 'find' of 'bytearray' objects}
+       72    0.000    0.000    0.000    0.000 sre_parse.py:81(groups)
+        9    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1056(_calc___package__)
+        1    0.000    0.000    0.000    0.000 engine.py:19(_TimeMode)
+        3    0.000    0.000    0.000    0.000 threading.py:335(notify)
+       58    0.000    0.000    0.000    0.000 __init__.py:736(filter)
+        1    0.000    0.000    0.000    0.000 __future__.py:1(<module>)
+       48    0.000    0.000    0.000    0.000 types.py:174(__get__)
+        9    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:873(_resolve_name)
+       22    0.000    0.000    0.000    0.000 sre_parse.py:343(_escape)
+       63    0.000    0.000    0.000    0.000 evaluation.py:80(<genexpr>)
+       31    0.000    0.000    0.000    0.000 {method 'fromkeys' of 'type' objects}
+        1    0.000    0.000    0.000    0.000 typing.py:599(_GenericAlias)
+        6    0.000    0.000    0.000    0.000 ?:3(<lambda>)
+        1    0.000    0.000    0.000    0.000 tokenize.py:212(TokenError)
+       39    0.000    0.000    0.000    0.000 {built-in function time.time}
+      146    0.000    0.000    0.000    0.000 {method '__setitem__' of '_EnumDict' objects}
+       21    0.000    0.000    0.000    0.000 __init__.py:550(__str__)
+       60    0.000    0.000    0.000    0.000 {built-in function _imp.is_builtin}
+       29    0.000    0.000    0.000    0.000 __init__.py:117(getLevelName)
+       12    0.000    0.000    0.000    0.000 enum.py:157(<dictcomp>)
+       70    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.RLock' objects}
+      121    0.000    0.000    0.000    0.000 opcode.py:39(def_op)
+       51    0.000    0.000    0.000    0.000 {built-in function sys._getframe}
+        4    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:1061(exec_module)
+        1    0.000    0.000    0.000    0.000 moveordering.py:61(_generate_mvv_lva_scores)
+        2    0.000    0.000    0.000    0.000 threading.py:534(wait)
+      211    0.000    0.000    0.000    0.000 {built-in function min}
+        9    0.000    0.000    0.000    0.000 typing.py:777(<genexpr>)
+        1    0.000    0.000    0.000    0.000 pickle.py:1037(_Unpickler)
+        6    0.000    0.000    0.000    0.000 {built-in function _cffi_backend.callback}
+        1    0.000    0.000    0.000    0.000 datetime.py:2223(timezone)
+      197    0.000    0.000    0.000    0.000 {method 'lower' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method '__import__' of 'str' objects}
+        5    0.000    0.000    0.000    0.000 _weakrefset.py:88(add)
+        1    0.000    0.000    0.000    0.000 random.py:88(__init__)
+       27    0.000    0.000    0.000    0.000 __init__.py:523(uci)
+        6    0.000    0.000    0.000    0.000 __init__.py:47(digest_type_by_name)
+        1    0.000    0.000    0.000    0.000 datetime.py:202(_wrap_strftime)
+        2    0.000    0.000    0.000    0.000 typing.py:445(__init__)
+        3    0.000    0.000    0.000    0.000 argparse.py:1734(_add_action)
+       31    0.000    0.000    0.000    0.000 threading.py:1225(current_thread)
+        1    0.000    0.000    0.000    0.000 typing.py:792(Generic)
+       41    0.000    0.000    0.000    0.000 sre_parse.py:168(__setitem__)
+       14    0.000    0.000    0.000    0.000 {method 'translate' of 'bytearray' objects}
+        3    0.000    0.000    0.000    0.000 gettext.py:215(_expand_lang)
+        1    0.000    0.000    0.000    0.000 __init__.py:86(sha3_224)
+       29    0.000    0.000    0.000    0.000 {built-in function posix.getpid}
+       70    0.000    0.000    0.000    0.000 {method 'release' of '_thread.RLock' objects}
+        1    0.000    0.000    0.000    0.000 typing.py:745(_VariadicGenericAlias)
+        1    0.000    0.000    0.000    0.000 datetime.py:2060(__sub__)
+        1    0.000    0.000    0.000    0.000 __init__.py:310(_SSLSocket)
+       65    0.000    0.000    0.000    0.000 {method 'replace' of 'str' objects}
+        3    0.000    0.000    0.000    0.000 codecs.py:319(decode)
+       92    0.000    0.000    0.000    0.000 {built-in function issubclass}
+       17    0.000    0.000    0.000    0.000 sre_parse.py:76(__init__)
+        1    0.000    0.000    0.000    0.000 random.py:97(seed)
+       24    0.000    0.000    0.000    0.000 tokenize.py:143(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:2488(_set_castling_fen)
+       97    0.000    0.000    0.000    0.000 {method 'rfind' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:1140(__init__)
+        4    0.000    0.000    0.000    0.000 sre_parse.py:267(getuntil)
+        3    0.000    0.000    0.000    0.000 argparse.py:1576(_add_action)
+        3    0.000    0.000    0.000    0.000 {built-in function _locale.nl_langinfo}
+       34    0.000    0.000    0.000    0.000 sre_compile.py:595(isstring)
+        1    0.000    0.000    0.000    0.000 os.py:46(<listcomp>)
+       15    0.000    0.000    0.000    0.000 os.py:754(encode)
+        3    0.000    0.000    0.000    0.000 argparse.py:588(_format_args)
+       37    0.000    0.000    0.000    0.000 __init__.py:22(<genexpr>)
+        5    0.000    0.000    0.000    0.000 threading.py:240(__enter__)
+        4    0.000    0.000    0.000    0.000 __init__.py:1336(__init__)
+        2    0.000    0.000    0.000    0.000 __init__.py:831(createLock)
+       34    0.000    0.000    0.000    0.000 typing.py:660(__eq__)
+       16    0.000    0.000    0.000    0.000 {built-in function round}
+       65    0.000    0.000    0.000    0.000 __init__.py:391(<genexpr>)
+       12    0.000    0.000    0.000    0.000 {method 'mro' of 'type' objects}
+        8    0.000    0.000    0.000    0.000 typing.py:786(<genexpr>)
+        3    0.000    0.000    0.000    0.000 argparse.py:1465(_get_optional_kwargs)
+        2    0.000    0.000    0.000    0.000 datetime.py:651(__neg__)
+        7    0.000    0.000    0.000    0.000 datetime.py:402(_check_date_fields)
+       12    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:757(exec_module)
+        1    0.000    0.000    0.000    0.000 __init__.py:217(<listcomp>)
+       55    0.000    0.000    0.000    0.000 {built-in function _codecs.utf_8_encode}
+        2    0.000    0.000    0.000    0.000 weakref.py:122(__init__)
+        1    0.000    0.000    0.000    0.000 argparse.py:1843(take_action)
+        2    0.000    0.000    0.000    0.000 __init__.py:783(_addHandlerRef)
+       19    0.000    0.000    0.000    0.000 {method 'setter' of 'property' objects}
+       34    0.000    0.000    0.000    0.000 argparse.py:1299(register)
+        7    0.000    0.000    0.000    0.000 datetime.py:415(_check_time_fields)
+        1    0.000    0.000    0.000    0.000 __init__.py:220(PasswordInfo)
+        1    0.000    0.000    0.000    0.000 functools.py:186(total_ordering)
+        7    0.000    0.000    0.000    0.000 dataclasses.py:331(_tuple_str)
+        1    0.000    0.000    0.000    0.000 process.py:63(BaseProcess)
+        3    0.000    0.000    0.000    0.000 __init__.py:1926(is_checkmate)
+        3    0.000    0.000    0.000    0.000 sre_compile.py:432(_generate_overlap_table)
+       15    0.000    0.000    0.000    0.000 typing.py:199(_check_generic)
+        3    0.000    0.000    0.000    0.000 _weakrefset.py:36(__init__)
+       11    0.000    0.000    0.000    0.000 sre_compile.py:492(_get_charset_prefix)
+        6    0.000    0.000    0.000    0.000 __init__.py:58(update)
+        1    0.000    0.000    0.000    0.000 datetime.py:1710(timetuple)
+       17    0.000    0.000    0.000    0.000 sre_parse.py:897(fix_flags)
+      134    0.000    0.000    0.000    0.000 functools.py:424(__hash__)
+        3    0.000    0.000    0.000    0.000 evaluation.py:147(_parse_base_config)
+        1    0.000    0.000    0.000    0.000 __init__.py:1010(_SSLContext)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:233(__init__)
+       16    0.000    0.000    0.000    0.000 __init__.py:2335(<genexpr>)
+        1    0.000    0.000    0.000    0.000 __init__.py:595(BaseBoard)
+       10    0.000    0.000    0.000    0.000 typing.py:832(<genexpr>)
+       12    0.000    0.000    0.000    0.000 __init__.py:212(_acquireLock)
+        3    0.000    0.000    0.000    0.000 argparse.py:1385(_add_action)
+        4    0.000    0.000    0.000    0.000 functools.py:498(_lru_cache_wrapper)
+        1    0.000    0.000    0.000    0.000 __init__.py:1576(reset)
+        3    0.000    0.000    0.000    0.000 __init__.py:1267(_fixupParents)
+        2    0.000    0.000    0.000    0.000 datetime.py:1201(__new__)
+        4    0.000    0.000    0.000    0.000 sre_parse.py:258(getwhile)
+       20    0.000    0.000    0.000    0.000 tokenize.py:107(group)
+        8    0.000    0.000    0.000    0.000 {method 'extend' of 'bytearray' objects}
+       54    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:1338(<genexpr>)
+       22    0.000    0.000    0.000    0.000 utility.py:27(_str_from_buf)
+        1    0.000    0.000    0.000    0.000 {built-in function math.exp}
+       11    0.000    0.000    0.000    0.000 {built-in function repr}
+       49    0.000    0.000    0.000    0.000 datetime.py:385(_check_int_field)
+      123    0.000    0.000    0.000    0.000 {built-in function ord}
+       67    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:433(has_location)
+        5    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+        9    0.000    0.000    0.000    0.000 enum.py:912(_power_of_two)
+       20    0.000    0.000    0.000    0.000 enum.py:203(<genexpr>)
+       85    0.000    0.000    0.000    0.000 _compat_pickle.py:167(<genexpr>)
+       75    0.000    0.000    0.000    0.000 enum.py:664(<lambda>)
+       80    0.000    0.000    0.000    0.000 {built-in function divmod}
+       20    0.000    0.000    0.000    0.000 typing.py:317(__eq__)
+        1    0.000    0.000    0.000    0.000 {method 'seed' of 'Random' objects}
+        1    0.000    0.000    0.000    0.000 context.py:30(BaseContext)
+        2    0.000    0.000    0.000    0.000 datetime.py:813(__new__)
+       38    0.000    0.000    0.000    0.000 {method 'find' of 'str' objects}
+        9    0.000    0.000    0.000    0.000 dataclasses.py:739(_set_new_attribute)
+       62    0.000    0.000    0.000    0.000 {method 'items' of 'mappingproxy' objects}
+        6    0.000    0.000    0.000    0.000 utility.py:16(_str_to_ffi_buffer)
+        1    0.000    0.000    0.000    0.000 argparse.py:2357(_get_values)
+        3    0.000    0.000    0.000    0.000 __init__.py:1943(is_insufficient_material)
+        1    0.000    0.000    0.000    0.000 socket.py:133(socket)
+       36    0.000    0.000    0.000    0.000 {method 'index' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:1586(reset_board)
+        2    0.000    0.000    0.000    0.000 __init__.py:242(_register_at_fork_reinit_lock)
+       64    0.000    0.000    0.000    0.000 {built-in function _imp.is_frozen}
+        1    0.000    0.000    0.000    0.000 datetime.py:1524(datetime)
+       33    0.000    0.000    0.000    0.000 {method 'group' of 're.Match' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:3749(SquareSet)
+       21    0.000    0.000    0.000    0.000 {method 'encode' of 'str' objects}
+       16    0.000    0.000    0.000    0.000 typing.py:322(__hash__)
+        1    0.000    0.000    0.000    0.000 {built-in function math.modf}
+        1    0.000    0.000    0.000    0.000 pickle.py:385(_Pickler)
+        1    0.000    0.000    0.000    0.000 __init__.py:1349(setLevel)
+       30    0.000    0.000    0.000    0.000 abc.py:7(abstractmethod)
+        1    0.000    0.000    0.000    0.000 argparse.py:152(HelpFormatter)
+        6    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:46(_w_long)
+        1    0.000    0.000    0.000    0.000 datetime.py:157(_build_struct_time)
+       29    0.000    0.000    0.000    0.000 threading.py:1064(name)
+       51    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:922(get_filename)
+        1    0.000    0.000    0.000    0.000 datetime.py:1176(time)
+       16    0.000    0.000    0.000    0.000 dataclasses.py:584(_is_classvar)
+        2    0.000    0.000    0.000    0.000 search.py:20(__init__)
+        3    0.000    0.000    0.000    0.000 argparse.py:808(__init__)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:403(_field_init)
+       28    0.000    0.000    0.000    0.000 sre_compile.py:65(_combine_flags)
+       31    0.000    0.000    0.000    0.000 dataclasses.py:378(<genexpr>)
+       12    0.000    0.000    0.000    0.000 __init__.py:221(_releaseLock)
+       69    0.000    0.000    0.000    0.000 {method 'isidentifier' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 random.py:72(Random)
+       65    0.000    0.000    0.000    0.000 {method '__contains__' of 'frozenset' objects}
+        7    0.000    0.000    0.000    0.000 dataclasses.py:340(<listcomp>)
+        1    0.000    0.000    0.000    0.000 threading.py:744(Thread)
+        2    0.000    0.000    0.000    0.000 __init__.py:502(__init__)
+        1    0.000    0.000    0.000    0.000 decoder.py:284(__init__)
+       51    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:732(create_module)
+        1    0.000    0.000    0.000    0.000 datetime.py:637(__sub__)
+        2    0.000    0.000    0.000    0.000 __init__.py:605(__init__)
+       23    0.000    0.000    0.000    0.000 {method 'string' of '_cffi_backend.FFI' objects}
+        8    0.000    0.000    0.000    0.000 enum.py:365(__members__)
+        1    0.000    0.000    0.000    0.000 selectors.py:80(BaseSelector)
+       29    0.000    0.000    0.000    0.000 process.py:36(current_process)
+        1    0.000    0.000    0.000    0.000 __init__.py:1304(_clear_cache)
+        1    0.000    0.000    0.000    0.000 threading.py:899(_set_tstate_lock)
+        1    0.000    0.000    0.000    0.000 __init__.py:454(Piece)
+        1    0.000    0.000    0.000    0.000 __init__.py:7(_sha3)
+        1    0.000    0.000    0.000    0.000 latin_1.py:41(getregentry)
+       43    0.000    0.000    0.000    0.000 _compat_pickle.py:165(<genexpr>)
+        1    0.000    0.000    0.000    0.000 __init__.py:43(normalize_encoding)
+       11    0.000    0.000    0.000    0.000 opcode.py:43(name_op)
+        2    0.000    0.000    0.000    0.000 sre_parse.py:837(_parse_flags)
+        1    0.000    0.000    0.000    0.000 __init__.py:629(reset_board)
+        6    0.000    0.000    0.000    0.000 {built-in function _codecs.utf_8_decode}
+        3    0.000    0.000    0.000    0.000 __init__.py:1997(is_fivefold_repetition)
+        3    0.000    0.000    0.000    0.000 utf_8.py:15(decode)
+        3    0.000    0.000    0.000    0.000 datetime.py:64(_ymd2ord)
+       29    0.000    0.000    0.000    0.000 sre_compile.py:453(_get_iscased)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:519(<listcomp>)
+       10    0.000    0.000    0.000    0.000 enum.py:571(_generate_next_value_)
+        1    0.000    0.000    0.000    0.000 inspect.py:2472(Parameter)
+        3    0.000    0.000    0.000    0.000 datetime.py:2243(_create)
+        2    0.000    0.000    0.000    0.000 {built-in function math.log}
+        1    0.000    0.000    0.000    0.000 datetime.py:459(timedelta)
+        3    0.000    0.000    0.000    0.000 __init__.py:633(_clear_board)
+        1    0.000    0.000    0.000    0.000 enum.py:600(__format__)
+        6    0.000    0.000    0.000    0.000 enum.py:860(_high_bit)
+        1    0.000    0.000    0.000    0.000 communication.py:223(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:615(_reset_board)
+        1    0.000    0.000    0.000    0.000 datetime.py:783(date)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:287(__init__)
+        1    0.000    0.000    0.000    0.000 inspect.py:2757(Signature)
+       12    0.000    0.000    0.000    0.000 {method '__init__' of '_EnumDict' objects}
+        2    0.000    0.000    0.000    0.000 posixpath.py:64(isabs)
+        6    0.000    0.000    0.000    0.000 __init__.py:716(__init__)
+        1    0.000    0.000    0.000    0.000 argparse.py:908(__init__)
+       28    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:180(<listcomp>)
+        3    0.000    0.000    0.000    0.000 codecs.py:309(__init__)
+       13    0.000    0.000    0.000    0.000 typing.py:547(<genexpr>)
+       64    0.000    0.000    0.000    0.000 __init__.py:213(square_mirror)
+        1    0.000    0.000    0.000    0.000 encoder.py:59(JSONEncoder)
+        2    0.000    0.000    0.000    0.000 datetime.py:962(toordinal)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:530(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:1671(__init__)
+        5    0.000    0.000    0.000    0.000 typing.py:300(__new__)
+        9    0.000    0.000    0.000    0.000 {method 'rsplit' of 'str' objects}
+        7    0.000    0.000    0.000    0.000 opcode.py:47(jrel_op)
+        4    0.000    0.000    0.000    0.000 {built-in function _imp.exec_dynamic}
+        1    0.000    0.000    0.000    0.000 context.py:264(<listcomp>)
+       12    0.000    0.000    0.000    0.000 {method 'from_buffer' of '_cffi_backend.FFI' objects}
+        2    0.000    0.000    0.000    0.000 {method 'release_lock' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 functools.py:189(<setcomp>)
+        1    0.000    0.000    0.000    0.000 argparse.py:1030(__init__)
+        1    0.000    0.000    0.000    0.000 argparse.py:1073(_SubParsersAction)
+        1    0.000    0.000    0.000    0.000 typing.py:1366(__new__)
+       34    0.000    0.000    0.000    0.000 {method '__len__' of 'dict' objects}
+       69    0.000    0.000    0.000    0.000 {built-in function globals}
+        1    0.000    0.000    0.000    0.000 argparse.py:1953(consume_positionals)
+        3    0.000    0.000    0.000    0.000 argparse.py:1505(_get_handler)
+       12    0.000    0.000    0.000    0.000 {method 'setdefault' of 'dict' objects}
+        6    0.000    0.000    0.000    0.000 typing.py:685(__mro_entries__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1682(LoggerAdapter)
+       35    0.000    0.000    0.000    0.000 {built-in function callable}
+       29    0.000    0.000    0.000    0.000 process.py:180(name)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:494(<dictcomp>)
+        3    0.000    0.000    0.000    0.000 locale.py:384(normalize)
+       72    0.000    0.000    0.000    0.000 {built-in function chr}
+        2    0.000    0.000    0.000    0.000 threading.py:728(_newname)
+        3    0.000    0.000    0.000    0.000 __init__.py:1948(<genexpr>)
+       36    0.000    0.000    0.000    0.000 enum.py:628(name)
+       16    0.000    0.000    0.000    0.000 {method '__setattr__' of '_GenericAlias' objects}
+        3    0.000    0.000    0.000    0.000 argparse.py:1501(_pop_action_class)
+        1    0.000    0.000    0.000    0.000 __init__.py:233(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:1321(Logger)
+        1    0.000    0.000    0.000    0.000 traceback.py:227(FrameSummary)
+        7    0.000    0.000    0.000    0.000 __init__.py:187(_checkLevel)
+        3    0.000    0.000    0.000    0.000 argparse.py:204(__init__)
+       19    0.000    0.000    0.000    0.000 typing.py:176(<listcomp>)
+        7    0.000    0.000    0.000    0.000 argparse.py:1303(_registry_get)
+        4    0.000    0.000    0.000    0.000 frozen importlib._bootstrap_external:1042(__init__)
+        4    0.000    0.000    0.000    0.000 codecs.py:186(__init__)
+       59    0.000    0.000    0.000    0.000 {method 'from_handle' of '_cffi_backend.FFI' objects}
+       10    0.000    0.000    0.000    0.000 __future__.py:81(__init__)
+        1    0.000    0.000    0.000    0.000 argparse.py:850(__init__)
+        1    0.000    0.000    0.000    0.000 argparse.py:885(__init__)
+        3    0.000    0.000    0.000    0.000 threading.py:75(RLock)
+        5    0.000    0.000    0.000    0.000 threading.py:243(__exit__)
+       23    0.000    0.000    0.000    0.000 {method 'decode' of 'bytes' objects}
+        1    0.000    0.000    0.000    0.000 decoder.py:254(JSONDecoder)
+        6    0.000    0.000    0.000    0.000 search.py:90(_checkup)
+       15    0.000    0.000    0.000    0.000 {method '__new__' of 'EnumMeta' objects}
+        3    0.000    0.000    0.000    0.000 __init__.py:1600(getEffectiveLevel)
+        3    0.000    0.000    0.000    0.000 {built-in function posix.register_at_fork}
+        1    0.000    0.000    0.000    0.000 __init__.py:502(Move)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:457(_init_param)
+        6    0.000    0.000    0.000    0.000 __init__.py:138(make_new_hash)
+        5    0.000    0.000    0.000    0.000 {built-in function _sre.unicode_iscased}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        3    0.000    0.000    0.000    0.000 __init__.py:1164(__init__)
+        1    0.000    0.000    0.000    0.000 evaluation.py:265(SimplifiedEvaluator)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:910(<listcomp>)
+       12    0.000    0.000    0.000    0.000 enum.py:633(value)
+        1    0.000    0.000    0.000    0.000 codecs.py:94(__new__)
+        6    0.000    0.000    0.000    0.000 opcode.py:51(jabs_op)
+        1    0.000    0.000    0.000    0.000 argparse.py:1606(ArgumentParser)
+        2    0.000    0.000    0.000    0.000 engine.py:50(_clear_mode)
+        1    0.000    0.000    0.000    0.000 encoder.py:90(__init__)
+        1    0.000    0.000    0.000    0.000 reduction.py:33(ForkingPickler)
+        1    0.000    0.000    0.000    0.000 evaluation.py:382(<listcomp>)
+        3    0.000    0.000    0.000    0.000 {method '__next__' of 'itertools.count' objects}
+        1    0.000    0.000    0.000    0.000 traceback.py:315(StackSummary)
+        1    0.000    0.000    0.000    0.000 traceback.py:437(TracebackException)
+        1    0.000    0.000    0.000    0.000 threading.py:567(Barrier)
+       11    0.000    0.000    0.000    0.000 {built-in function sys.intern}
+        4    0.000    0.000    0.000    0.000 {method 'acquire_lock' of '_thread.lock' objects}
+        2    0.000    0.000    0.000    0.000 weakref.py:316(update)
+        1    0.000    0.000    0.000    0.000 __init__.py:1526(addHandler)
+        7    0.000    0.000    0.000    0.000 moveordering.py:67(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:793(Handler)
+       10    0.000    0.000    0.000    0.000 datetime.py:52(_days_in_month)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:926(<listcomp>)
+        3    0.000    0.000    0.000    0.000 datetime.py:1171(__new__)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:391(_field_assign)
+       18    0.000    0.000    0.000    0.000 {method 'keys' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 typing.py:488(TypeVar)
+        3    0.000    0.000    0.000    0.000 argparse.py:581(format)
+        1    0.000    0.000    0.000    0.000 selectors.py:290(SelectSelector)
+        4    0.000    0.000    0.000    0.000 functools.py:458(lru_cache)
+       16    0.000    0.000    0.000    0.000 dataclasses.py:592(_is_initvar)
+        4    0.000    0.000    0.000    0.000 datetime.py:59(_days_before_month)
+        6    0.000    0.000    0.000    0.000 datetime.py:47(_days_before_year)
+        6    0.000    0.000    0.000    0.000 {method 'isalnum' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'union' of 'set' objects}
+       12    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:16(HASH)
+        3    0.000    0.000    0.000    0.000 __init__.py:1950(has_insufficient_material)
+        1    0.000    0.000    0.000    0.000 communication.py:31(UCIHandler)
+       12    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:774(is_package)
+        3    0.000    0.000    0.000    0.000 argparse.py:1514(_check_conflict)
+        3    0.000    0.000    0.000    0.000 {method 'reverse' of 'list' objects}
+        5    0.000    0.000    0.000    0.000 typing.py:313(__init__)
+        2    0.000    0.000    0.000    0.000 {method 'maketrans' of 'type' objects}
+        1    0.000    0.000    0.000    0.000 argparse.py:2413(_get_value)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:935(<listcomp>)
+        1    0.000    0.000    0.000    0.000 re.py:254(escape)
+        3    0.000    0.000    0.000    0.000 __init__.py:1988(is_seventyfive_moves)
+        1    0.000    0.000    0.000    0.000 moveordering.py:11(_ScoredMove)
+        2    0.000    0.000    0.000    0.000 __init__.py:1617(clear_stack)
+        1    0.000    0.000    0.000    0.000 __init__.py:963(SSLSession)
+        1    0.000    0.000    0.000    0.000 evaluation.py:18(BoardEvaluation)
+        1    0.000    0.000    0.000    0.000 socket.py:546(SocketIO)
+        3    0.000    0.000    0.000    0.000 threading.py:255(_is_owned)
+        6    0.000    0.000    0.000    0.000 {method 'to_bytes' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 evaluation.py:407(<listcomp>)
+        1    0.000    0.000    0.000    0.000 typing.py:1288(SupportsInt)
+        1    0.000    0.000    0.000    0.000 {built-in function math.sqrt}
+        1    0.000    0.000    0.000    0.000 evaluation.py:535(<listcomp>)
+        1    0.000    0.000    0.000    0.000 reduction.py:247(AbstractReducer)
+        1    0.000    0.000    0.000    0.000 string.py:175(Formatter)
+        1    0.000    0.000    0.000    0.000 dis.py:461(Bytecode)
+        1    0.000    0.000    0.000    0.000 engine.py:100(clear_mode)
+        1    0.000    0.000    0.000    0.000 evaluation.py:383(<listcomp>)
+        1    0.000    0.000    0.000    0.000 argparse.py:1245(_ActionsContainer)
+        1    0.000    0.000    0.000    0.000 tokenize.py:108(any)
+        2    0.000    0.000    0.000    0.000 __init__.py:415(__init__)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:929(<listcomp>)
+        1    0.000    0.000    0.000    0.000 inspect.py:2627(BoundArguments)
+        1    0.000    0.000    0.000    0.000 evaluation.py:560(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:1756(MemoryBIO)
+        1    0.000    0.000    0.000    0.000 evaluation.py:536(<listcomp>)
+        1    0.000    0.000    0.000    0.000 tokenize.py:94(TokenInfo)
+        1    0.000    0.000    0.000    0.000 string.py:78(Template)
+        5    0.000    0.000    0.000    0.000 reduction.py:43(register)
+        1    0.000    0.000    0.000    0.000 enum.py:588(__str__)
+        1    0.000    0.000    0.000    0.000 argparse.py:2224(_get_nargs_pattern)
+        2    0.000    0.000    0.000    0.000 tokenize.py:109(maybe)
+        6    0.000    0.000    0.000    0.000 {method 'gc' of '_cffi_backend.FFI' objects}
+        1    0.000    0.000    0.000    0.000 selectors.py:60(_SelectorMapping)
+        1    0.000    0.000    0.000    0.000 __init__.py:457(Formatter)
+        1    0.000    0.000    0.000    0.000 {method 'new_handle' of '_cffi_backend.FFI' objects}
+        3    0.000    0.000    0.000    0.000 argparse.py:572(_metavar_formatter)
+        1    0.000    0.000    0.000    0.000 typing.py:1297(SupportsFloat)
+        1    0.000    0.000    0.000    0.000 movegeneration.py:62(clear_pv_table)
+        1    0.000    0.000    0.000    0.000 communication.py:170(ConsoleHandler)
+        1    0.000    0.000    0.000    0.000 scanner.py:15(py_make_scanner)
+        1    0.000    0.000    0.000    0.000 evaluation.py:191(<listcomp>)
+        3    0.000    0.000    0.000    0.000 codecs.py:260(__init__)
+        1    0.000    0.000    0.000    0.000 io.py:75(RawIOBase)
+        1    0.000    0.000    0.000    0.000 engine.py:108(set_mode)
+        1    0.000    0.000    0.000    0.000 pickle.py:196(_Framer)
+        1    0.000    0.000    0.000    0.000 __init__.py:3724(LegalMoveGenerator)
+        4    0.000    0.000    0.000    0.000 typing.py:835(<genexpr>)
+        1    0.000    0.000    0.000    0.000 typing.py:1333(SupportsRound)
+        1    0.000    0.000    0.000    0.000 __init__.py:3693(PseudoLegalMoveGenerator)
+        1    0.000    0.000    0.000    0.000 argparse.py:1746(_get_positional_actions)
+        5    0.000    0.000    0.000    0.000 typing.py:279(__init_subclass__)
+        1    0.000    0.000    0.000    0.000 threading.py:88(_RLock)
+        1    0.000    0.000    0.000    0.000 typing.py:1324(SupportsAbs)
+        1    0.000    0.000    0.000    0.000 __init__.py:150(Outcome)
+        1    0.000    0.000    0.000    0.000 context.py:228(__init__)
+        1    0.000    0.000    0.000    0.000 selectors.py:206(_BaseSelectorImpl)
+        1    0.000    0.000    0.000    0.000 selectors.py:341(_PollLikeSelector)
+        1    0.000    0.000    0.000    0.000 threading.py:204(Condition)
+        1    0.000    0.000    0.000    0.000 communication.py:182(__init__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1205(__init__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1134(_StderrHandler)
+        3    0.000    0.000    0.000    0.000 threading.py:1116(daemon)
+        1    0.000    0.000    0.000    0.000 __init__.py:105(__init__)
+        1    0.000    0.000    0.000    0.000 typing.py:1306(SupportsComplex)
+        6    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 context.py:219(Process)
+        8    0.000    0.000    0.000    0.000 datetime.py:432(_check_tzinfo_arg)
+        1    0.000    0.000    0.000    0.000 datetime.py:1101(tzinfo)
+        1    0.000    0.000    0.000    0.000 selectors.py:433(PollSelector)
+        1    0.000    0.000    0.000    0.000 io.py:72(IOBase)
+        1    0.000    0.000    0.000    0.000 selectors.py:506(KqueueSelector)
+        2    0.000    0.000    0.000    0.000 __init__.py:1631(ply)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:288(seek)
+        1    0.000    0.000    0.000    0.000 typing.py:1315(SupportsBytes)
+        2    0.000    0.000    0.000    0.000 argparse.py:2121(_parse_optional)
+       12    0.000    0.000    0.000    0.000 {built-in function _imp.exec_builtin}
+        1    0.000    0.000    0.000    0.000 argparse.py:2105(_match_arguments_partial)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:757(<listcomp>)
+        1    0.000    0.000    0.000    0.000 string.py:55(_TemplateMetaclass)
+        1    0.000    0.000    0.000    0.000 context.py:225(DefaultContext)
+        1    0.000    0.000    0.000    0.000 random.py:676(SystemRandom)
+        1    0.000    0.000    0.000    0.000 __init__.py:1373(_BoardState)
+        1    0.000    0.000    0.000    0.000 __init__.py:270(LogRecord)
+        1    0.000    0.000    0.000    0.000 __init__.py:1200(Manager)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:177(__init__)
+        2    0.000    0.000    0.000    0.000 {built-in function id}
+        2    0.000    0.000    0.000    0.000 {method 'index' of 'tuple' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:98(sha3_512)
+        2    0.000    0.000    0.000    0.000 argparse.py:605(<listcomp>)
+        2    0.000    0.000    0.000    0.000 __init__.py:266(lsb)
+        1    0.000    0.000    0.000    0.000 typing.py:1395(NamedTuple)
+        1    0.000    0.000    0.000    0.000 __init__.py:261(<listcomp>)
+        7    0.000    0.000    0.000    0.000 {built-in function __pypy__.builtinify}
+        1    0.000    0.000    0.000    0.000 argparse.py:105(_AttributeHolder)
+        1    0.000    0.000    0.000    0.000 __init__.py:409(PercentStyle)
+        1    0.000    0.000    0.000    0.000 typing.py:438(ForwardRef)
+        3    0.000    0.000    0.000    0.000 {method 'lstrip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 error.py:24(SSLError)
+        7    0.000    0.000    0.000    0.000 {method 'values' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 context.py:202(reducer)
+        4    0.000    0.000    0.000    0.000 sre_parse.py:162(__delitem__)
+        1    0.000    0.000    0.000    0.000 inspect.py:2141(_NoValue)
+        1    0.000    0.000    0.000    0.000 {method 'translate' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:90(sha3_256)
+        1    0.000    0.000    0.000    0.000 __init__.py:1065(FileHandler)
+        2    0.000    0.000    0.000    0.000 {method 'remove' of 'collections.deque' objects}
+        1    0.000    0.000    0.000    0.000 threading.py:488(Event)
+        1    0.000    0.000    0.000    0.000 argparse.py:1047(_VersionAction)
+        1    0.000    0.000    0.000    0.000 argparse.py:978(_AppendConstAction)
+        1    0.000    0.000    0.000    0.000 argparse.py:1171(FileType)
+        1    0.000    0.000    0.000    0.000 __init__.py:982(StreamHandler)
+        1    0.000    0.000    0.000    0.000 context.py:279(SpawnProcess)
+        1    0.000    0.000    0.000    0.000 io.py:78(BufferedIOBase)
+        1    0.000    0.000    0.000    0.000 context.py:272(ForkProcess)
+        1    0.000    0.000    0.000    0.000 pickle.py:260(_Unframer)
+        9    0.000    0.000    0.000    0.000 {built-in function locals}
+        1    0.000    0.000    0.000    0.000 __init__.py:674(Filter)
+        1    0.000    0.000    0.000    0.000 copy.py:55(Error)
+        1    0.000    0.000    0.000    0.000 decoder.py:20(JSONDecodeError)
+        7    0.000    0.000    0.000    0.000 enum.py:906(<lambda>)
+        1    0.000    0.000    0.000    0.000 __init__.py:2057(NullHandler)
+        1    0.000    0.000    0.000    0.000 __init__.py:65(_shake)
+        1    0.000    0.000    0.000    0.000 __init__.py:250(<listcomp>)
+        1    0.000    0.000    0.000    0.000 argparse.py:1586(_MutuallyExclusiveGroup)
+        1    0.000    0.000    0.000    0.000 argparse.py:1747(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:632(BufferingFormatter)
+        5    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 typing.py:1630(io)
+        1    0.000    0.000    0.000    0.000 argparse.py:1028(_HelpAction)
+        1    0.000    0.000    0.000    0.000 __future__.py:80(_Feature)
+        1    0.000    0.000    0.000    0.000 argparse.py:1552(_ArgumentGroup)
+        4    0.000    0.000    0.000    0.000 datetime.py:43(_is_leap)
+        1    0.000    0.000    0.000    0.000 typing.py:274(_Final)
+        1    0.000    0.000    0.000    0.000 argparse.py:1005(_CountAction)
+        1    0.000    0.000    0.000    0.000 reduction.py:207(_C)
+        1    0.000    0.000    0.000    0.000 threading.py:370(Semaphore)
+        1    0.000    0.000    0.000    0.000 socket.py:130(_GiveupOnSendfile)
+        1    0.000    0.000    0.000    0.000 io.py:81(TextIOBase)
+        1    0.000    0.000    0.000    0.000 typing.py:283(_Immutable)
+        1    0.000    0.000    0.000    0.000 typing.py:1645(re)
+        1    0.000    0.000    0.000    0.000 __init__.py:106(shake_256)
+        1    0.000    0.000    0.000    0.000 __init__.py:94(sha3_384)
+        1    0.000    0.000    0.000    0.000 typing.py:1100(_ProtocolMeta)
+        1    0.000    0.000    0.000    0.000 argparse.py:879(__call__)
+        1    0.000    0.000    0.000    0.000 __init__.py:711(Filterer)
+        1    0.000    0.000    0.000    0.000 __init__.py:433(StringTemplateStyle)
+        1    0.000    0.000    0.000    0.000 argparse.py:748(ArgumentTypeError)
+        1    0.000    0.000    0.000    0.000 __init__.py:102(shake_128)
+        1    0.000    0.000    0.000    0.000 <string>:1(<module>)
+        4    0.000    0.000    0.000    0.000 {method 'clear' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 context.py:286(ForkServerProcess)
+        1    0.000    0.000    0.000    0.000 argparse.py:848(_StoreAction)
+        1    0.000    0.000    0.000    0.000 pickle.py:80(PicklingError)
+        1    0.000    0.000    0.000    0.000 tokenize.py:217(Untokenizer)
+        1    0.000    0.000    0.000    0.000 inspect.py:884(BlockFinder)
+        1    0.000    0.000    0.000    0.000 argparse.py:656(RawDescriptionHelpFormatter)
+        1    0.000    0.000    0.000    0.000 pickle.py:76(PickleError)
+        1    0.000    0.000    0.000    0.000 argparse.py:1983(<listcomp>)
+        1    0.000    0.000    0.000    0.000 process.py:325(AuthenticationString)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:220(Field)
+        1    0.000    0.000    0.000    0.000 dis.py:199(Instruction)
+        1    0.000    0.000    0.000    0.000 argparse.py:728(ArgumentError)
+        2    0.000    0.000    0.000    0.000 __init__.py:2351(has_legal_en_passant)
+        1    0.000    0.000    0.000    0.000 __init__.py:1158(PlaceHolder)
+        1    0.000    0.000    0.000    0.000 error.py:38(SSLCertVerificationError)
+        1    0.000    0.000    0.000    0.000 tokenize.py:214(StopTokenizing)
+        1    0.000    0.000    0.000    0.000 argparse.py:757(Action)
+        1    0.000    0.000    0.000    0.000 process.py:339(_MainProcess)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:202(_InitVarMeta)
+        1    0.000    0.000    0.000    0.000 __init__.py:1665(RootLogger)
+        1    0.000    0.000    0.000    0.000 threading.py:1153(Timer)
+        1    0.000    0.000    0.000    0.000 argparse.py:1225(Namespace)
+        1    0.000    0.000    0.000    0.000 __init__.py:424(StrFormatStyle)
+        1    0.000    0.000    0.000    0.000 argparse.py:940(_AppendAction)
+        1    0.000    0.000    0.000    0.000 argparse.py:883(_StoreConstAction)
+        1    0.000    0.000    0.000    0.000 argparse.py:1075(_ChoicesPseudoAction)
+        1    0.000    0.000    0.000    0.000 context.py:293(ForkContext)
+        1    0.000    0.000    0.000    0.000 {method '__format__' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 typing.py:1168(_Protocol)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:278(_DataclassParams)
+        1    0.000    0.000    0.000    0.000 __init__.py:1713(ServernameCallback)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:160(_HAS_DEFAULT_FACTORY_CLASS)
+        1    0.000    0.000    0.000    0.000 threading.py:896(_set_ident)
+        1    0.000    0.000    0.000    0.000 argparse.py:923(_StoreFalseAction)
+        1    0.000    0.000    0.000    0.000 argparse.py:202(_Section)
+        4    0.000    0.000    0.000    0.000 {method '__init_subclass__' of 'object' objects}
+        1    0.000    0.000    0.000    0.000 threading.py:1202(_DummyThread)
+        1    0.000    0.000    0.000    0.000 __init__.py:104(NameFetcher)
+        1    0.000    0.000    0.000    0.000 {method 'insert' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 dataclasses.py:176(_FIELD_BASE)
+        1    0.000    0.000    0.000    0.000 argparse.py:695(MetavarTypeHelpFormatter)
+        5    0.000    0.000    0.000    0.000 {method '__init__' of 'object' objects}
+        1    0.000    0.000    0.000    0.000 context.py:301(ForkServerContext)
+        1    0.000    0.000    0.000    0.000 typing.py:1364(NamedTupleMeta)
+        1    0.000    0.000    0.000    0.000 context.py:23(AuthenticationError)
+        1    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 threading.py:450(BoundedSemaphore)
+        3    0.000    0.000    0.000    0.000 __init__.py:1854(is_variant_win)
+        1    0.000    0.000    0.000    0.000 inspect.py:882(EndOfBlock)
+        1    0.000    0.000    0.000    0.000 argparse.py:906(_StoreTrueAction)
+        1    0.000    0.000    0.000    0.000 argparse.py:1232(__init__)
+        3    0.000    0.000    0.000    0.000 __init__.py:1861(is_variant_draw)
+        1    0.000    0.000    0.000    0.000 pickle.py:100(_Stop)
+        3    0.000    0.000    0.000    0.000 __init__.py:1847(is_variant_loss)
+        2    0.000    0.000    0.000    0.000 threading.py:507(is_set)
+        1    0.000    0.000    0.000    0.000 context.py:297(SpawnContext)
+        4    0.000    0.000    0.000    0.000 {built-in function _sre.ascii_tolower}
+        1    0.000    0.000    0.000    0.000 typing.py:887(_TypingEmpty)
+        1    0.000    0.000    0.000    0.000 inspect.py:2436(_void)
+        1    0.000    0.000    0.000    0.000 argparse.py:667(RawTextHelpFormatter)
+        1    0.000    0.000    0.000    0.000 argparse.py:678(ArgumentDefaultsHelpFormatter)
+        1    0.000    0.000    0.000    0.000 context.py:14(ProcessError)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:155(FrozenInstanceError)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:206(InitVar)
+        1    0.000    0.000    0.000    0.000 error.py:41(SSLZeroReturnError)
+        1    0.000    0.000    0.000    0.000 threading.py:1183(_MainThread)
+        1    0.000    0.000    0.000    0.000 __init__.py:899(setFormatter)
+        1    0.000    0.000    0.000    0.000 {built-in function _thread._set_sentinel}
+        1    0.000    0.000    0.000    0.000 error.py:54(SSLSyscallError)
+        4    0.000    0.000    0.000    0.000 {method 'clear' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 dataclasses.py:167(_MISSING_TYPE)
+        1    0.000    0.000    0.000    0.000 pickle.py:87(UnpicklingError)
+        1    0.000    0.000    0.000    0.000 inspect.py:2440(_empty)
+        1    0.000    0.000    0.000    0.000 context.py:17(BufferTooShort)
+        1    0.000    0.000    0.000    0.000 error.py:49(SSLWantWriteError)
+        1    0.000    0.000    0.000    0.000 context.py:20(TimeoutError)
+        1    0.000    0.000    0.000    0.000 error.py:57(SSLEOFError)
+        1    0.000    0.000    0.000    0.000 error.py:44(SSLWantReadError)
+        1    0.000    0.000    0.000    0.000 argparse.py:2439(_check_value)
+        1    0.000    0.000    0.000    0.000 typing.py:894(_TypingEllipsis)
+        1    0.000    0.000    0.000    0.000 threading.py:721(BrokenBarrierError)
+        1    0.000    0.000    0.000    0.000 {method '__new__' of 'type' objects}
+        4    0.000    0.000    0.000    0.000 {built-in function _sre.ascii_iscased}
+        1    0.000    0.000    0.000    0.000 datetime.py:611(days)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:753(_hash_set_none)
+        1    0.000    0.000    0.000    0.000 datetime.py:1947(dst)
+        1    0.000    0.000    0.000    0.000 datetime.py:939(year)
+        1    0.000    0.000    0.000    0.000 <string>:1(__create_fn__)
+        1    0.000    0.000    0.000    0.000 datetime.py:944(month)
+        1    0.000    0.000    0.000    0.000 datetime.py:949(day)
+        2    0.000    0.000    0.000    0.000 frozen _structseq:12(<lambda>)
+        2    0.000    0.000    0.000    0.000 {method '__init__' of '_ArgumentGroup' objects}
+        1    0.000    0.000    0.000    0.000 {built-in function iter}
+        1    0.000    0.000    0.000    0.000 datetime.py:1572(hour)
+        1    0.000    0.000    0.000    0.000 datetime.py:1582(second)
+        1    0.000    0.000    0.000    0.000 datetime.py:1577(minute)
+        1    0.000    0.000    0.000    0.000 {method '__init__' of '_TemplateMetaclass' objects}
+        1    0.000    0.000    0.000    0.000 {method '__init__' of 'ArgumentParser' objects}
+
+
